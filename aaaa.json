@@ -1,0 +1,3962 @@
+﻿[
+  {
+    "number": 1,
+    "region": "清水區",
+    "ParkName": "鰲峰山市鎮公園",
+    "adress": "中清路",
+    "area": "200,000",
+    "hometown": "鰲峰里、下湳里、吳厝里"
+  },
+  {
+    "number": 2,
+    "region": "西屯區",
+    "ParkName": "世斌公園",
+    "adress": "永福路-福順路旁",
+    "area": "3,123",
+    "hometown": "福雅里"
+  },
+  {
+    "number": 3,
+    "region": "西屯區",
+    "ParkName": "上石公園",
+    "adress": "西屯路二段上石里集會所前",
+    "area": "2,050",
+    "hometown": "上石里"
+  },
+  {
+    "number": 4,
+    "region": "西屯區",
+    "ParkName": "宏恩公園",
+    "adress": "宏台社區後宏恩二巷旁",
+    "area": "1,300",
+    "hometown": "永安里"
+  },
+  {
+    "number": 5,
+    "region": "西屯區",
+    "ParkName": "西平公園",
+    "adress": "烈美街-西屯路口附近",
+    "area": "2,190",
+    "hometown": "西平里"
+  },
+  {
+    "number": 6,
+    "region": "西屯區",
+    "ParkName": "上安公園",
+    "adress": "上安路-上仁街",
+    "area": "1,960",
+    "hometown": "上安里"
+  },
+  {
+    "number": 7,
+    "region": "西屯區",
+    "ParkName": "國安兒1",
+    "adress": "西屯路三段近玉門路",
+    "area": "2,980",
+    "hometown": "永安里"
+  },
+  {
+    "number": 8,
+    "region": "西屯區",
+    "ParkName": "國安兒2",
+    "adress": "國安一路-西平南巷北側",
+    "area": "2,860",
+    "hometown": "永安里"
+  },
+  {
+    "number": 9,
+    "region": "西屯區",
+    "ParkName": "廣昌公園",
+    "adress": "中清交流道旁果菜市場內",
+    "area": "4,500",
+    "hometown": "港尾里"
+  },
+  {
+    "number": 10,
+    "region": "西屯區",
+    "ParkName": "惠中公園",
+    "adress": "惠中路-文中路旁",
+    "area": "2,040",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 11,
+    "region": "西屯區",
+    "ParkName": "大福公園",
+    "adress": "長安路-中清西二街旁",
+    "area": "3,580",
+    "hometown": "大福里"
+  },
+  {
+    "number": 12,
+    "region": "西屯區",
+    "ParkName": "大鵬公園",
+    "adress": "長安路-福上巷大豐20弄",
+    "area": "2,107",
+    "hometown": "大鵬里"
+  },
+  {
+    "number": 13,
+    "region": "西屯區",
+    "ParkName": "洛陽公園",
+    "adress": "洛陽路125巷近洛陽路",
+    "area": "1,983",
+    "hometown": "何仁里、惠來里"
+  },
+  {
+    "number": 14,
+    "region": "西屯區",
+    "ParkName": "至善公園",
+    "adress": "至善路-逢甲路253巷旁",
+    "area": "1,873",
+    "hometown": "至善里"
+  },
+  {
+    "number": 15,
+    "region": "西屯區",
+    "ParkName": "福安公園",
+    "adress": "福順路-福科路口",
+    "area": "2,000",
+    "hometown": "福林里"
+  },
+  {
+    "number": 16,
+    "region": "西屯區",
+    "ParkName": "文輝公園",
+    "adress": "上明街-上明三街口",
+    "area": "1,800",
+    "hometown": "上安里"
+  },
+  {
+    "number": 17,
+    "region": "西屯區",
+    "ParkName": "五龍公園",
+    "adress": "東大路-福科路口",
+    "area": "3,756",
+    "hometown": "福聯里"
+  },
+  {
+    "number": 18,
+    "region": "西屯區",
+    "ParkName": "西安公園",
+    "adress": "上安路-黎明路口附近",
+    "area": "2,153",
+    "hometown": "至善里"
+  },
+  {
+    "number": 19,
+    "region": "西屯區",
+    "ParkName": "上德公園",
+    "adress": "智惠街-上石路口",
+    "area": "1,800",
+    "hometown": "上德里"
+  },
+  {
+    "number": 20,
+    "region": "西屯區",
+    "ParkName": "何厝公園",
+    "adress": "四川路-何厝街口",
+    "area": "1,800",
+    "hometown": "何厝里"
+  },
+  {
+    "number": 21,
+    "region": "西屯區",
+    "ParkName": "逢甲公園",
+    "adress": "逢甲路-逢明街旁",
+    "area": "10,880",
+    "hometown": "西安里"
+  },
+  {
+    "number": 22,
+    "region": "西屯區",
+    "ParkName": "公116-公119",
+    "adress": "玉門路-國安二路附近",
+    "area": "18,190",
+    "hometown": "永安里"
+  },
+  {
+    "number": 23,
+    "region": "西屯區",
+    "ParkName": "文華公園",
+    "adress": "逢大路65號旁(大鵬新城內)",
+    "area": "6,637",
+    "hometown": "鵬程里"
+  },
+  {
+    "number": 24,
+    "region": "西屯區",
+    "ParkName": "甘肅公園",
+    "adress": "甘肅路與永昌1、2街間",
+    "area": "1,982",
+    "hometown": "何仁里"
+  },
+  {
+    "number": 25,
+    "region": "西屯區",
+    "ParkName": "成都公園",
+    "adress": "成都路與漢城4街口",
+    "area": "1,903",
+    "hometown": "何源里"
+  },
+  {
+    "number": 26,
+    "region": "西屯區",
+    "ParkName": "三信公園",
+    "adress": "漢口路與河南路口",
+    "area": "10,713",
+    "hometown": "何福里"
+  },
+  {
+    "number": 27,
+    "region": "西屯區",
+    "ParkName": "華美公園",
+    "adress": "太原路與華美西街2段口",
+    "area": "2,124",
+    "hometown": "何仁里"
+  },
+  {
+    "number": 28,
+    "region": "西屯區",
+    "ParkName": "重慶公園",
+    "adress": "西屯路與重慶路口",
+    "area": "2,048",
+    "hometown": "何德里"
+  },
+  {
+    "number": 29,
+    "region": "西屯區",
+    "ParkName": "大仁公園",
+    "adress": "甘肅路1段與成都路口",
+    "area": "2,107",
+    "hometown": "何安里"
+  },
+  {
+    "number": 30,
+    "region": "西屯區",
+    "ParkName": "青海公園",
+    "adress": "四川東街與四川4街口",
+    "area": "2,015",
+    "hometown": "何仁里"
+  },
+  {
+    "number": 31,
+    "region": "西屯區",
+    "ParkName": "河南公園",
+    "adress": "重慶路與內江街口",
+    "area": "1,722",
+    "hometown": "何源里"
+  },
+  {
+    "number": 32,
+    "region": "西屯區",
+    "ParkName": "長安公園",
+    "adress": "長安路與美滿街口",
+    "area": "1,695",
+    "hometown": "何仁里"
+  },
+  {
+    "number": 33,
+    "region": "西屯區",
+    "ParkName": "甘州公園",
+    "adress": "西屯路段80巷內",
+    "area": 729,
+    "hometown": "何德里"
+  },
+  {
+    "number": 34,
+    "region": "西屯區",
+    "ParkName": "福壽兒公園",
+    "adress": "甘州街及甘州2街口",
+    "area": 490,
+    "hometown": "何安里"
+  },
+  {
+    "number": 35,
+    "region": "西屯區",
+    "ParkName": "高登公園",
+    "adress": "重慶394號旁",
+    "area": 380,
+    "hometown": "何源里"
+  },
+  {
+    "number": 36,
+    "region": "西屯區",
+    "ParkName": "大有公園",
+    "adress": "太原路與大有二街",
+    "area": "1,830",
+    "hometown": "何明里"
+  },
+  {
+    "number": 37,
+    "region": "西屯區",
+    "ParkName": "大弘公園",
+    "adress": "太原路與大弘六街口",
+    "area": "2,028",
+    "hometown": "何明里"
+  },
+  {
+    "number": 38,
+    "region": "西屯區",
+    "ParkName": "文修公園",
+    "adress": "漢翔路-烈美街口",
+    "area": "25,995",
+    "hometown": "西安里"
+  },
+  {
+    "number": 39,
+    "region": "西屯區",
+    "ParkName": "張廖家廟廣場",
+    "adress": "福星路-福星北路口",
+    "area": "2,461",
+    "hometown": "西平里"
+  },
+  {
+    "number": 40,
+    "region": "西屯區",
+    "ParkName": "永安公園",
+    "adress": "永康街-西屯路三段148-19巷口",
+    "area": 716,
+    "hometown": "永安里"
+  },
+  {
+    "number": 41,
+    "region": "西屯區",
+    "ParkName": "幸福兒童公園",
+    "adress": "櫻城一街與弘孝路間",
+    "area": "2,294",
+    "hometown": "大河里"
+  },
+  {
+    "number": 42,
+    "region": "西屯區",
+    "ParkName": "大石公園",
+    "adress": "中平路北側大石三巷(近福上巷)",
+    "area": "2,419",
+    "hometown": "大石里"
+  },
+  {
+    "number": 43,
+    "region": "西屯區",
+    "ParkName": "西大墩公園",
+    "adress": "環中路與福科路",
+    "area": "27,301",
+    "hometown": "西墩里"
+  },
+  {
+    "number": 44,
+    "region": "西屯區",
+    "ParkName": "世貿公園",
+    "adress": "台中世貿中心前(中工二路-天保街)",
+    "area": "20,722",
+    "hometown": "福和里、福中里"
+  },
+  {
+    "number": 45,
+    "region": "西屯區",
+    "ParkName": "中工公園",
+    "adress": "工業區28路-38路口",
+    "area": "4,200",
+    "hometown": "協和里"
+  },
+  {
+    "number": 46,
+    "region": "西屯區",
+    "ParkName": "大聖公園",
+    "adress": "大聖街與大安西街口",
+    "area": 763,
+    "hometown": "何南里"
+  },
+  {
+    "number": 47,
+    "region": "西屯區",
+    "ParkName": "大容公園",
+    "adress": "大墩17街與大容東一街口",
+    "area": 960,
+    "hometown": "何成里"
+  },
+  {
+    "number": 48,
+    "region": "西屯區",
+    "ParkName": "大安公園",
+    "adress": "大安西街與大安街口",
+    "area": "2,023",
+    "hometown": "何南里"
+  },
+  {
+    "number": 49,
+    "region": "西屯區",
+    "ParkName": "大墩公園",
+    "adress": "大墩路與大墩19街口",
+    "area": "1,127",
+    "hometown": "何成里"
+  },
+  {
+    "number": 50,
+    "region": "西屯區",
+    "ParkName": "惠來公園",
+    "adress": "惠中路二段-市政南二路",
+    "area": "21,195",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 51,
+    "region": "西屯區",
+    "ParkName": "公1-2",
+    "adress": "市政北二路-府會二街",
+    "area": "7,089",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 52,
+    "region": "西屯區",
+    "ParkName": "公1-3",
+    "adress": "市政北一路-市政路",
+    "area": "10,963",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 53,
+    "region": "西屯區",
+    "ParkName": "公2-1",
+    "adress": "文心路二段-市政北五路",
+    "area": "8,642",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 54,
+    "region": "西屯區",
+    "ParkName": "公2-2",
+    "adress": "市政北五路-府會二街",
+    "area": "8,514",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 55,
+    "region": "西屯區",
+    "ParkName": "夏綠地公園",
+    "adress": "惠來路二段-市政北五路",
+    "area": "17,532",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 56,
+    "region": "西屯區",
+    "ParkName": "惠安公園",
+    "adress": "朝富一街-朝馬二街",
+    "area": "2,906",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 57,
+    "region": "西屯區",
+    "ParkName": "朝貴公園",
+    "adress": "朝貴一街-朝貴一街1巷",
+    "area": "2,140",
+    "hometown": "潮洋里"
+  },
+  {
+    "number": 58,
+    "region": "西屯區",
+    "ParkName": "惠泰公園",
+    "adress": "黎明路二段-市政北二路",
+    "area": "3,282",
+    "hometown": "潮洋里"
+  },
+  {
+    "number": 59,
+    "region": "西屯區",
+    "ParkName": "惠順公園",
+    "adress": "政和路-惠文一街",
+    "area": "2,438",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 60,
+    "region": "西屯區",
+    "ParkName": "惠誠公園",
+    "adress": "市政南一路-惠文七街",
+    "area": "2,127",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 61,
+    "region": "西屯區",
+    "ParkName": "龍門公園",
+    "adress": "龍門路-龍門二街",
+    "area": "2,864",
+    "hometown": "潮洋里"
+  },
+  {
+    "number": 62,
+    "region": "西屯區",
+    "ParkName": "福恩兒童公園",
+    "adress": "工業一路-工業一路72巷口",
+    "area": "1,790",
+    "hometown": "福恩里"
+  },
+  {
+    "number": 63,
+    "region": "西屯區",
+    "ParkName": "公126",
+    "adress": "西屯路-福裕路口",
+    "area": "9,595",
+    "hometown": "福安里"
+  },
+  {
+    "number": 64,
+    "region": "西屯區",
+    "ParkName": "公89",
+    "adress": "中港路-福元街口",
+    "area": "10,300",
+    "hometown": "福安里"
+  },
+  {
+    "number": 65,
+    "region": "西屯區",
+    "ParkName": "公127",
+    "adress": "朝馬路-協仁街口",
+    "area": "19,331",
+    "hometown": "福和里、協和里"
+  },
+  {
+    "number": 66,
+    "region": "西屯區",
+    "ParkName": "公99",
+    "adress": "安和路-安和二街口",
+    "area": "14,285",
+    "hometown": "協和里"
+  },
+  {
+    "number": 67,
+    "region": "西屯區",
+    "ParkName": "公99-1",
+    "adress": "朝馬路-玉寶路口",
+    "area": "14,715",
+    "hometown": "福和里、協和里"
+  },
+  {
+    "number": 68,
+    "region": "西屯區",
+    "ParkName": "公兼兒6(細6)",
+    "adress": "龍德路二段-龍富二十二路口",
+    "area": "1,845",
+    "hometown": "龍潭里"
+  },
+  {
+    "number": 69,
+    "region": "西屯區",
+    "ParkName": "細公兼兒1",
+    "adress": "龍富二十二路-龍瑞街口",
+    "area": "2,362",
+    "hometown": "龍潭里、黎明里"
+  },
+  {
+    "number": 70,
+    "region": "西屯區",
+    "ParkName": "潮洋環保公園",
+    "adress": "環河路-朝貴路口",
+    "area": "27,121",
+    "hometown": "潮洋里"
+  },
+  {
+    "number": 71,
+    "region": "西屯區",
+    "ParkName": "福星公園",
+    "adress": "福星路-弘孝路旁",
+    "area": "18,817",
+    "hometown": "逢甲里"
+  },
+  {
+    "number": 72,
+    "region": "北屯區",
+    "ParkName": "三光公園",
+    "adress": "北屯路200巷與九龍街交叉口",
+    "area": "2,775",
+    "hometown": "三光里"
+  },
+  {
+    "number": 73,
+    "region": "北屯區",
+    "ParkName": "東光公園(前名福光公園)",
+    "adress": "東山路一段33巷與東山路一段37巷間",
+    "area": "1,598",
+    "hometown": "東光里"
+  },
+  {
+    "number": 74,
+    "region": "北屯區",
+    "ParkName": "水景公園",
+    "adress": "東山路一段207巷13弄旁",
+    "area": "2,204",
+    "hometown": "水景里"
+  },
+  {
+    "number": 75,
+    "region": "北屯區",
+    "ParkName": "建功公園",
+    "adress": "軍和街旁",
+    "area": "1,565",
+    "hometown": "軍功里"
+  },
+  {
+    "number": 76,
+    "region": "北屯區",
+    "ParkName": "卅張犁公園",
+    "adress": "三光巷與太原路三段口",
+    "area": "2,669",
+    "hometown": "北興里"
+  },
+  {
+    "number": 77,
+    "region": "北屯區",
+    "ParkName": "三甲公園",
+    "adress": "旱溪東路三段與景賢路口",
+    "area": "4,485",
+    "hometown": "水景里"
+  },
+  {
+    "number": 78,
+    "region": "北屯區",
+    "ParkName": "景賢公園",
+    "adress": "景賢路與景賢六路口",
+    "area": "10,165",
+    "hometown": "水景里"
+  },
+  {
+    "number": 79,
+    "region": "北屯區",
+    "ParkName": "原住民主題公園",
+    "adress": "景賢路與景賢二路",
+    "area": "5,760",
+    "hometown": "水景里"
+  },
+  {
+    "number": 80,
+    "region": "北屯區",
+    "ParkName": "景福公園",
+    "adress": "景賢二路與軍福十一路",
+    "area": "6,380",
+    "hometown": "水景里"
+  },
+  {
+    "number": 81,
+    "region": "北屯區",
+    "ParkName": "水景玫瑰公園",
+    "adress": "旱溪東路三段與東山路一段147巷41弄口及水景街與東山路一段147巷口",
+    "area": "16,070",
+    "hometown": "水景里"
+  },
+  {
+    "number": 82,
+    "region": "北屯區",
+    "ParkName": "景美公園",
+    "adress": "旱溪東路三段與軍福18路",
+    "area": "6,350",
+    "hometown": "水景里"
+  },
+  {
+    "number": 83,
+    "region": "北屯區",
+    "ParkName": "軍福公園",
+    "adress": "軍榮五街與軍福十九路",
+    "area": "13,434",
+    "hometown": "軍功里"
+  },
+  {
+    "number": 84,
+    "region": "北屯區",
+    "ParkName": "軍功公園",
+    "adress": "松竹路一段與軍功路二段交叉口",
+    "area": "14,876",
+    "hometown": "軍功里"
+  },
+  {
+    "number": 85,
+    "region": "北屯區",
+    "ParkName": "石頭公公園",
+    "adress": "正道街與松竹一路口",
+    "area": "2,561",
+    "hometown": "和平里"
+  },
+  {
+    "number": 86,
+    "region": "北屯區",
+    "ParkName": "和福公園",
+    "adress": "軍福十路與和福路",
+    "area": "5,110",
+    "hometown": "和平里"
+  },
+  {
+    "number": 87,
+    "region": "北屯區",
+    "ParkName": "松榮公園",
+    "adress": "松竹路一段與松竹二路口",
+    "area": "4,276",
+    "hometown": "軍功里"
+  },
+  {
+    "number": 88,
+    "region": "北屯區",
+    "ParkName": "旱西天闊公園",
+    "adress": "旱溪西路三段與旱溪西路三段258巷口",
+    "area": "1,845",
+    "hometown": "舊社里"
+  },
+  {
+    "number": 89,
+    "region": "北屯區",
+    "ParkName": "東山停車場",
+    "adress": "東山路一段與東山路一段384巷口(和平段112等地號)",
+    "area": "3,930",
+    "hometown": "和平里"
+  },
+  {
+    "number": 90,
+    "region": "北屯區",
+    "ParkName": "經補庫兒童公園",
+    "adress": "近祥順西路三段與東山路一段口(和平段122地號)",
+    "area": "1,562",
+    "hometown": "和平里"
+  },
+  {
+    "number": 91,
+    "region": "北屯區",
+    "ParkName": "和平公園",
+    "adress": "松竹路一段與軍福16路口(和平段140地號)",
+    "area": "4,626",
+    "hometown": "和平里"
+  },
+  {
+    "number": 92,
+    "region": "北屯區",
+    "ParkName": "和祥公園",
+    "adress": "近和祥街與軍福11路口(和平段493地號)",
+    "area": "3,059",
+    "hometown": "和平里"
+  },
+  {
+    "number": 93,
+    "region": "北屯區",
+    "ParkName": "景中公園",
+    "adress": "近和順路與和順三街口(景福段37地號)",
+    "area": "2,329",
+    "hometown": "水景里"
+  },
+  {
+    "number": 94,
+    "region": "北屯區",
+    "ParkName": "錦上公園",
+    "adress": "近東山路一段與東山路一段91巷口(和平段122地號)",
+    "area": "2,153",
+    "hometown": "東光里"
+  },
+  {
+    "number": 95,
+    "region": "北屯區",
+    "ParkName": "景倡公園",
+    "adress": "旱溪東路三段與東山路一段147巷21弄口",
+    "area": "2,252",
+    "hometown": "水景里"
+  },
+  {
+    "number": 96,
+    "region": "北屯區",
+    "ParkName": "?子公園",
+    "adress": "?子路與景賢路交叉口",
+    "area": "49,416",
+    "hometown": "?子里"
+  },
+  {
+    "number": 97,
+    "region": "北屯區",
+    "ParkName": "?興公園",
+    "adress": "建和路與太順路口",
+    "area": "16,720",
+    "hometown": "?子里"
+  },
+  {
+    "number": 98,
+    "region": "北屯區",
+    "ParkName": "祥和公園",
+    "adress": "建和路與軍福七路口",
+    "area": "4,747",
+    "hometown": "?子里"
+  },
+  {
+    "number": 99,
+    "region": "北屯區",
+    "ParkName": "昌盛公園",
+    "adress": "太和路二段與太和二街口(近太原路三段)",
+    "area": "4,211",
+    "hometown": "?子里"
+  },
+  {
+    "number": 100,
+    "region": "北屯區",
+    "ParkName": "河堤公園",
+    "adress": "祥順東路靠近中台科大",
+    "area": "5,820",
+    "hometown": "?子里、和平里"
+  },
+  {
+    "number": 101,
+    "region": "北屯區",
+    "ParkName": "博愛公園",
+    "adress": "?子路與景賢路口",
+    "area": "11,450",
+    "hometown": "?子里"
+  },
+  {
+    "number": 102,
+    "region": "北屯區",
+    "ParkName": "中台公園",
+    "adress": "?子路靠近中台科大",
+    "area": "4,135",
+    "hometown": "?子里"
+  },
+  {
+    "number": 103,
+    "region": "北屯區",
+    "ParkName": "和順公園",
+    "adress": "和順路與和順路499巷",
+    "area": "7,820",
+    "hometown": "和平里"
+  },
+  {
+    "number": 104,
+    "region": "北屯區",
+    "ParkName": "同榮公園",
+    "adress": "同榮路235號前",
+    "area": "1,303",
+    "hometown": "同榮里"
+  },
+  {
+    "number": 105,
+    "region": "北屯區",
+    "ParkName": "兒170",
+    "adress": "同榮路與新興路口",
+    "area": 232,
+    "hometown": "同榮里"
+  },
+  {
+    "number": 106,
+    "region": "北屯區",
+    "ParkName": "仁愛公園",
+    "adress": "四平路與水湳路口",
+    "area": "2,599",
+    "hometown": "仁愛里"
+  },
+  {
+    "number": 107,
+    "region": "北屯區",
+    "ParkName": "后庄公園",
+    "adress": "中清路112巷與中清路112巷24弄口",
+    "area": 984,
+    "hometown": "后庄里"
+  },
+  {
+    "number": 108,
+    "region": "北屯區",
+    "ParkName": "兒66公園",
+    "adress": "后庄公園邊籃球場",
+    "area": "1,100",
+    "hometown": "后庄里"
+  },
+  {
+    "number": 109,
+    "region": "北屯區",
+    "ParkName": "瀋陽公園",
+    "adress": "大連路1段與瀋陽北路",
+    "area": "2,000",
+    "hometown": "水湳里"
+  },
+  {
+    "number": 110,
+    "region": "北屯區",
+    "ParkName": "陳平公園",
+    "adress": "陳平路與陳平一街",
+    "area": "2,000",
+    "hometown": "忠平里"
+  },
+  {
+    "number": 111,
+    "region": "北屯區",
+    "ParkName": "陸光公園",
+    "adress": "豐樂路與豐樂路10巷22弄口",
+    "area": "1,700",
+    "hometown": "仁美里"
+  },
+  {
+    "number": 112,
+    "region": "北屯區",
+    "ParkName": "四平公園",
+    "adress": "后庄路1046巷與后庄路980巷11弄口",
+    "area": "2,000",
+    "hometown": "仁和里"
+  },
+  {
+    "number": 113,
+    "region": "北屯區",
+    "ParkName": "昌平公園",
+    "adress": "四平路與昌平路附近",
+    "area": "1,200",
+    "hometown": "仁和里"
+  },
+  {
+    "number": 114,
+    "region": "北屯區",
+    "ParkName": "大德公園",
+    "adress": "平德路28號前",
+    "area": "2,000",
+    "hometown": "大德里"
+  },
+  {
+    "number": 115,
+    "region": "北屯區",
+    "ParkName": "清平公園",
+    "adress": "四平路27號邊",
+    "area": "2,000",
+    "hometown": "大德里"
+  },
+  {
+    "number": 116,
+    "region": "北屯區",
+    "ParkName": "松竹公園",
+    "adress": "崇德五路146巷與崇德六路",
+    "area": "1,273",
+    "hometown": "松竹里"
+  },
+  {
+    "number": 117,
+    "region": "北屯區",
+    "ParkName": "松和公園",
+    "adress": "崇德六路1段151號",
+    "area": "2,000",
+    "hometown": "松和里"
+  },
+  {
+    "number": 118,
+    "region": "北屯區",
+    "ParkName": "九甲公園",
+    "adress": "遼寧路2段30號附近",
+    "area": "1,900",
+    "hometown": "松茂里"
+  },
+  {
+    "number": 119,
+    "region": "北屯區",
+    "ParkName": "松勇公園",
+    "adress": "松明街與松明街9巷口",
+    "area": "2,400",
+    "hometown": "松勇里"
+  },
+  {
+    "number": 120,
+    "region": "北屯區",
+    "ParkName": "舊社公園",
+    "adress": "北屯路與松竹路口",
+    "area": "39,584",
+    "hometown": "舊社里"
+  },
+  {
+    "number": 121,
+    "region": "北屯區",
+    "ParkName": "平興公園",
+    "adress": "柳陽東街與遼寧路交叉口",
+    "area": "2,041",
+    "hometown": "平興里"
+  },
+  {
+    "number": 122,
+    "region": "北屯區",
+    "ParkName": "雷虎公園",
+    "adress": "雷中街19巷34弄",
+    "area": "2,100",
+    "hometown": "陳平里"
+  },
+  {
+    "number": 123,
+    "region": "北屯區",
+    "ParkName": "三分埔公園",
+    "adress": "河北路(崇德5路與崇德6路)",
+    "area": "17,535",
+    "hometown": "松竹里"
+  },
+  {
+    "number": 124,
+    "region": "北屯區",
+    "ParkName": "昌和公園",
+    "adress": "松竹路二段與昌平路二段口",
+    "area": "10,000",
+    "hometown": "仁和里"
+  },
+  {
+    "number": 125,
+    "region": "北屯區",
+    "ParkName": "八二三公園",
+    "adress": "昌平東二路(崇德9路與崇德10路)",
+    "area": "22,250",
+    "hometown": "松強里"
+  },
+  {
+    "number": 126,
+    "region": "北屯區",
+    "ParkName": "仁美公園",
+    "adress": "崇德路與崇德12路口",
+    "area": "6,600",
+    "hometown": "仁美里"
+  },
+  {
+    "number": 127,
+    "region": "北屯區",
+    "ParkName": "四張犁公園",
+    "adress": "豐樂路與四平路口",
+    "area": "29,681",
+    "hometown": "仁和里"
+  },
+  {
+    "number": 128,
+    "region": "北屯區",
+    "ParkName": "仁德公園",
+    "adress": "崇德10路2段310巷100號對面",
+    "area": "1,979",
+    "hometown": "仁和里"
+  },
+  {
+    "number": 129,
+    "region": "北屯區",
+    "ParkName": "崇德公園",
+    "adress": "天津路3段與文昌東5街口",
+    "area": "1,154",
+    "hometown": "平德里"
+  },
+  {
+    "number": 130,
+    "region": "北屯區",
+    "ParkName": "平安公園",
+    "adress": "天津路4段與柳陽西街口",
+    "area": "1,273",
+    "hometown": "平安里"
+  },
+  {
+    "number": 131,
+    "region": "北屯區",
+    "ParkName": "東新公園",
+    "adress": "梅川東路與旅順路口",
+    "area": "2,378",
+    "hometown": "平陽里"
+  },
+  {
+    "number": 132,
+    "region": "北屯區",
+    "ParkName": "民俗公園",
+    "adress": "熱河路與旅順路口",
+    "area": "13,832",
+    "hometown": "平福里"
+  },
+  {
+    "number": 133,
+    "region": "北屯區",
+    "ParkName": "豐田公園",
+    "adress": "遼寧路與大連路口",
+    "area": "3,227",
+    "hometown": "平田里"
+  },
+  {
+    "number": 134,
+    "region": "北屯區",
+    "ParkName": "旅順公園",
+    "adress": "旅順路與柳陽西街口",
+    "area": "1,269",
+    "hometown": "平心里"
+  },
+  {
+    "number": 135,
+    "region": "北屯區",
+    "ParkName": "仁和廣福公園",
+    "adress": "文昌三巷與崇德路3段317巷124弄101號口",
+    "area": "7,600",
+    "hometown": "仁和里"
+  },
+  {
+    "number": 136,
+    "region": "北屯區",
+    "ParkName": "細公2-3",
+    "adress": "長生巷4-17號對面",
+    "area": "3,340",
+    "hometown": "四民里"
+  },
+  {
+    "number": 137,
+    "region": "北屯區",
+    "ParkName": "細公2-4",
+    "adress": "昌平路2段156巷35號",
+    "area": "3,450",
+    "hometown": "四民里"
+  },
+  {
+    "number": 138,
+    "region": "北屯區",
+    "ParkName": "細公65",
+    "adress": "更生巷45弄與新興路191巷口",
+    "area": "3,700",
+    "hometown": "同榮里"
+  },
+  {
+    "number": 139,
+    "region": "北屯區",
+    "ParkName": "潮春公園",
+    "adress": "豐樂路17巷18弄(仁美活動中心旁)",
+    "area": "7,100",
+    "hometown": "仁美里"
+  },
+  {
+    "number": 140,
+    "region": "北屯區",
+    "ParkName": "細廣兼停1",
+    "adress": "豐樂路26號旁(仁美活動中心旁)",
+    "area": "4,000",
+    "hometown": "仁美里"
+  },
+  {
+    "number": 141,
+    "region": "北屯區",
+    "ParkName": "仁和公園",
+    "adress": "崇德路二段與崇德九路口",
+    "area": "6,333",
+    "hometown": "仁和里"
+  },
+  {
+    "number": 142,
+    "region": "北屯區",
+    "ParkName": "敦化公園",
+    "adress": "敦化路與陳平一街",
+    "area": "27,805",
+    "hometown": "后庄里"
+  },
+  {
+    "number": 143,
+    "region": "北屯區",
+    "ParkName": "地震公園",
+    "adress": "東山路一段389號",
+    "area": "32,183",
+    "hometown": "和平里"
+  },
+  {
+    "number": 144,
+    "region": "北屯區",
+    "ParkName": "新都生態公園",
+    "adress": "松竹路一段與軍福15路口",
+    "area": "22,562",
+    "hometown": "和平里"
+  },
+  {
+    "number": 145,
+    "region": "北屯區",
+    "ParkName": "北屯兒童公園",
+    "adress": "北平路與興安路口",
+    "area": "46,218",
+    "hometown": "平昌里"
+  },
+  {
+    "number": 146,
+    "region": "東區",
+    "ParkName": "祖聖公園",
+    "adress": "建成路與東光路",
+    "area": "8,061",
+    "hometown": "旱溪里"
+  },
+  {
+    "number": 147,
+    "region": "東區",
+    "ParkName": "忠孝公園",
+    "adress": "忠孝路與大勇街",
+    "area": "1,700",
+    "hometown": "振興里"
+  },
+  {
+    "number": 148,
+    "region": "東區",
+    "ParkName": "仁和公園",
+    "adress": "仁和路與東光園道",
+    "area": "1,853",
+    "hometown": "東門里"
+  },
+  {
+    "number": 149,
+    "region": "東區",
+    "ParkName": "育英公園",
+    "adress": "旱溪西路與樂業路",
+    "area": "1,700",
+    "hometown": "樂成里"
+  },
+  {
+    "number": 150,
+    "region": "東區",
+    "ParkName": "大智公園",
+    "adress": "大智路與仁和路",
+    "area": "19,289",
+    "hometown": "東興里"
+  },
+  {
+    "number": 151,
+    "region": "東區",
+    "ParkName": "三賢公園",
+    "adress": "三賢街與東英十五街",
+    "area": "4,605",
+    "hometown": "東英里"
+  },
+  {
+    "number": 152,
+    "region": "東區",
+    "ParkName": "進業公園",
+    "adress": "十甲東路與東英十五街",
+    "area": "1,501",
+    "hometown": "東英里"
+  },
+  {
+    "number": 153,
+    "region": "東區",
+    "ParkName": "旱平公園",
+    "adress": "十甲東路與東英八街",
+    "area": "2,977",
+    "hometown": "東英里"
+  },
+  {
+    "number": 154,
+    "region": "東區",
+    "ParkName": "東福公園",
+    "adress": "長福路與東英二街",
+    "area": "6,050",
+    "hometown": "東信里"
+  },
+  {
+    "number": 155,
+    "region": "東區",
+    "ParkName": "樂利公園",
+    "adress": "十甲東路與東英六街",
+    "area": "1,684",
+    "hometown": "東英里"
+  },
+  {
+    "number": 156,
+    "region": "東區",
+    "ParkName": "長福公園",
+    "adress": "十甲路與旱溪東路",
+    "area": "6,719",
+    "hometown": "十甲里"
+  },
+  {
+    "number": 157,
+    "region": "東區",
+    "ParkName": "樂豐公園",
+    "adress": "二聖街與東英八街",
+    "area": "1,080",
+    "hometown": "十甲里"
+  },
+  {
+    "number": 158,
+    "region": "東區",
+    "ParkName": "樂明公園",
+    "adress": "一心街與東英八街",
+    "area": "2,198",
+    "hometown": "十甲里"
+  },
+  {
+    "number": 159,
+    "region": "東區",
+    "ParkName": "樂成公園",
+    "adress": "一心街與東英五街",
+    "area": "29,005",
+    "hometown": "東信里"
+  },
+  {
+    "number": 160,
+    "region": "東區",
+    "ParkName": "東英公園",
+    "adress": "樂業路與喬城三街",
+    "area": "31,287",
+    "hometown": "東英里"
+  },
+  {
+    "number": 161,
+    "region": "東區",
+    "ParkName": "干城公園",
+    "adress": "自由三街與進德一街口",
+    "area": "3,535",
+    "hometown": "干城里"
+  },
+  {
+    "number": 162,
+    "region": "東區",
+    "ParkName": "廣一公園",
+    "adress": "公園東路與南京六街口",
+    "area": "1,500",
+    "hometown": "干城里"
+  },
+  {
+    "number": 163,
+    "region": "東區",
+    "ParkName": "廣四公園",
+    "adress": "進德路與進德一街",
+    "area": "2,041",
+    "hometown": "干城里"
+  },
+  {
+    "number": 164,
+    "region": "東區",
+    "ParkName": "東門兒童公園",
+    "adress": "東光園路131巷與東光園路口",
+    "area": "2,186",
+    "hometown": "東門里"
+  },
+  {
+    "number": 165,
+    "region": "東區",
+    "ParkName": "泉源公園",
+    "adress": "樂業路與樂業路62巷口",
+    "area": "7,800",
+    "hometown": "泉源里"
+  },
+  {
+    "number": 166,
+    "region": "東區",
+    "ParkName": "東峰公園",
+    "adress": "仁和路與立德東街口",
+    "area": "48,280",
+    "hometown": "東興里"
+  },
+  {
+    "number": 167,
+    "region": "東區",
+    "ParkName": "一心公園",
+    "adress": "東府街旁",
+    "area": "2,409",
+    "hometown": "東信里"
+  },
+  {
+    "number": 168,
+    "region": "北區",
+    "ParkName": "英士公園",
+    "adress": "英士路與文化街口",
+    "area": "6,914",
+    "hometown": "文莊里"
+  },
+  {
+    "number": 169,
+    "region": "北區",
+    "ParkName": "賴明公園",
+    "adress": "梅川東路與漢口路口",
+    "area": "2,665",
+    "hometown": "梅川里"
+  },
+  {
+    "number": 170,
+    "region": "北區",
+    "ParkName": "金華公園",
+    "adress": "興進路與雙十路2段38巷",
+    "area": "1,979",
+    "hometown": "金華里"
+  },
+  {
+    "number": 171,
+    "region": "北區",
+    "ParkName": "尚德公園",
+    "adress": "尚德街與尚德街91巷口",
+    "area": "1,400",
+    "hometown": "育德里"
+  },
+  {
+    "number": 172,
+    "region": "北區",
+    "ParkName": "錦祥公園",
+    "adress": "育樂街1-3巷與進化路497巷",
+    "area": "1,537",
+    "hometown": "錦祥里"
+  },
+  {
+    "number": 173,
+    "region": "北區",
+    "ParkName": "進化廣場",
+    "adress": "興進路與進化路口",
+    "area": "3,500",
+    "hometown": "金華里"
+  },
+  {
+    "number": 174,
+    "region": "北區",
+    "ParkName": "育強公園",
+    "adress": "育強路（光華高工旁）",
+    "area": "3,418",
+    "hometown": "錦祥里"
+  },
+  {
+    "number": 175,
+    "region": "北區",
+    "ParkName": "文英兒童公園",
+    "adress": "興進路及三民路口",
+    "area": "2,029",
+    "hometown": "金華里"
+  },
+  {
+    "number": 176,
+    "region": "北區",
+    "ParkName": "梅川公園",
+    "adress": "梅川西路與天津路口",
+    "area": "1,531",
+    "hometown": "賴興里"
+  },
+  {
+    "number": 177,
+    "region": "北區",
+    "ParkName": "山西公園",
+    "adress": "北平路與山西路口",
+    "area": "2,392",
+    "hometown": "賴興里"
+  },
+  {
+    "number": 178,
+    "region": "北區",
+    "ParkName": "中清公園",
+    "adress": "北平路1段與北平2街口",
+    "area": "2,020",
+    "hometown": "立人里"
+  },
+  {
+    "number": 179,
+    "region": "北區",
+    "ParkName": "中德公園",
+    "adress": "太原南2街與忠明6街口",
+    "area": "1,120",
+    "hometown": "明德里"
+  },
+  {
+    "number": 180,
+    "region": "北區",
+    "ParkName": "武昌公園",
+    "adress": "陜西路與武昌路口",
+    "area": "2,004",
+    "hometown": "長青里"
+  },
+  {
+    "number": 181,
+    "region": "北區",
+    "ParkName": "長青公園",
+    "adress": "北平路與北平2街口(含池面清理)",
+    "area": "6,164",
+    "hometown": "立人里"
+  },
+  {
+    "number": 182,
+    "region": "北區",
+    "ParkName": "太原公園",
+    "adress": "太原北路與太原5街、6街",
+    "area": "2,096",
+    "hometown": "明德里"
+  },
+  {
+    "number": 183,
+    "region": "北區",
+    "ParkName": "曉明公園",
+    "adress": "漢陽4街與陜西東4街口",
+    "area": "1,919",
+    "hometown": "長青里"
+  },
+  {
+    "number": 184,
+    "region": "北區",
+    "ParkName": "英才公園",
+    "adress": "民權路英才路口",
+    "area": "25,000",
+    "hometown": "中達里"
+  },
+  {
+    "number": 185,
+    "region": "北區",
+    "ParkName": "中正公園",
+    "adress": "學士路與英才路口",
+    "area": "35,081",
+    "hometown": "邱厝里"
+  },
+  {
+    "number": 186,
+    "region": "北區",
+    "ParkName": "臺中公園",
+    "adress": "公園路與精武路口",
+    "area": "105,099",
+    "hometown": "新興里"
+  },
+  {
+    "number": 187,
+    "region": "南屯區",
+    "ParkName": "文昌公園",
+    "adress": "文昌街旁",
+    "area": "2,400",
+    "hometown": "永定里、南屯里"
+  },
+  {
+    "number": 188,
+    "region": "南屯區",
+    "ParkName": "田心公園",
+    "adress": "田心北三巷",
+    "area": "1,980",
+    "hometown": "田心里"
+  },
+  {
+    "number": 189,
+    "region": "南屯區",
+    "ParkName": "鎮平公園",
+    "adress": "鎮平國小對面",
+    "area": "5,500",
+    "hometown": "鎮平里"
+  },
+  {
+    "number": 190,
+    "region": "南屯區",
+    "ParkName": "文山公園",
+    "adress": "文山九街旁",
+    "area": "1,826",
+    "hometown": "文山里"
+  },
+  {
+    "number": 191,
+    "region": "南屯區",
+    "ParkName": "楓香公園",
+    "adress": "楓樹西街與楓樹南街口",
+    "area": "2,421",
+    "hometown": "楓樹里"
+  },
+  {
+    "number": 192,
+    "region": "南屯區",
+    "ParkName": "保安公園",
+    "adress": "嶺東路旁",
+    "area": "11,102",
+    "hometown": "文山里"
+  },
+  {
+    "number": 193,
+    "region": "南屯區",
+    "ParkName": "楓樹公園",
+    "adress": "南屯溪與楓樂巷口",
+    "area": 430,
+    "hometown": "楓樹里"
+  },
+  {
+    "number": 194,
+    "region": "南屯區",
+    "ParkName": "春社公園",
+    "adress": "嶺東路與永春北路口",
+    "area": "11,480",
+    "hometown": "春社里"
+  },
+  {
+    "number": 195,
+    "region": "南屯區",
+    "ParkName": "楓安公園",
+    "adress": "南屯溪與楓樂巷口",
+    "area": "2,690",
+    "hometown": "楓樹里"
+  },
+  {
+    "number": 196,
+    "region": "南屯區",
+    "ParkName": "三采公園",
+    "adress": "永春東七路與大墩十二街",
+    "area": "2,000",
+    "hometown": "三和里"
+  },
+  {
+    "number": 197,
+    "region": "南屯區",
+    "ParkName": "下牛埔公園",
+    "adress": "黎明路一段37巷",
+    "area": "2,900",
+    "hometown": "中和里"
+  },
+  {
+    "number": 198,
+    "region": "南屯區",
+    "ParkName": "犁頭店公園",
+    "adress": "惠中路與大墩四街",
+    "area": "2,200",
+    "hometown": "南屯里"
+  },
+  {
+    "number": 199,
+    "region": "南屯區",
+    "ParkName": "南苑公園",
+    "adress": "文心南路至文心南三、五路",
+    "area": "16,500",
+    "hometown": "豐樂里"
+  },
+  {
+    "number": 200,
+    "region": "南屯區",
+    "ParkName": "豐富公園",
+    "adress": "東興路與三民路",
+    "area": "23,000",
+    "hometown": "豐樂里"
+  },
+  {
+    "number": 201,
+    "region": "南屯區",
+    "ParkName": "向心兒童公園",
+    "adress": "文心南二路消防隊旁",
+    "area": "2,100",
+    "hometown": "向心里"
+  },
+  {
+    "number": 202,
+    "region": "南屯區",
+    "ParkName": "正心公園",
+    "adress": "大墩南路旁(大墩國宅)",
+    "area": "5,000",
+    "hometown": "大興里"
+  },
+  {
+    "number": 203,
+    "region": "南屯區",
+    "ParkName": "大興公園",
+    "adress": "南屯路與精誠路",
+    "area": "1,050",
+    "hometown": "大興里"
+  },
+  {
+    "number": 204,
+    "region": "南屯區",
+    "ParkName": "望高寮景觀設施",
+    "adress": "中台路上",
+    "area": "15,000",
+    "hometown": "春社里"
+  },
+  {
+    "number": 205,
+    "region": "南屯區",
+    "ParkName": "大業公園",
+    "adress": "大業路與大進街口",
+    "area": "1,010",
+    "hometown": "大業里"
+  },
+  {
+    "number": 206,
+    "region": "南屯區",
+    "ParkName": "鎮安公園",
+    "adress": "懷德街與干城街口",
+    "area": "1,094",
+    "hometown": "黎明里"
+  },
+  {
+    "number": 207,
+    "region": "南屯區",
+    "ParkName": "黎明公園",
+    "adress": "懷德街與干城街口",
+    "area": "4,400",
+    "hometown": "黎明里"
+  },
+  {
+    "number": 208,
+    "region": "南屯區",
+    "ParkName": "福德公園",
+    "adress": "懷德街與干城街202巷口",
+    "area": "2,016",
+    "hometown": "黎明里"
+  },
+  {
+    "number": 209,
+    "region": "南屯區",
+    "ParkName": "黎光公園",
+    "adress": "懷德街與干城街口",
+    "area": "2,800",
+    "hometown": "黎明里"
+  },
+  {
+    "number": 210,
+    "region": "南屯區",
+    "ParkName": "大進公園",
+    "adress": "東興路與大墩二街口",
+    "area": "1,510",
+    "hometown": "大誠里"
+  },
+  {
+    "number": 211,
+    "region": "南屯區",
+    "ParkName": "望高寮夜景公園",
+    "adress": "中台路上",
+    "area": "20,000",
+    "hometown": "春社里"
+  },
+  {
+    "number": 212,
+    "region": "南屯區",
+    "ParkName": "水安公園",
+    "adress": "文心路一段與大業路口",
+    "area": "3,454",
+    "hometown": "溝漧里"
+  },
+  {
+    "number": 213,
+    "region": "南屯區",
+    "ParkName": "惠義公園",
+    "adress": "大正街與大墩十二街口",
+    "area": "2,365",
+    "hometown": "惠中里"
+  },
+  {
+    "number": 214,
+    "region": "南屯區",
+    "ParkName": "惠智公園",
+    "adress": "大富街與大墩十一街口",
+    "area": "2,027",
+    "hometown": "三和里"
+  },
+  {
+    "number": 215,
+    "region": "南屯區",
+    "ParkName": "禮惠公園",
+    "adress": "大墩六街與大墩六街319巷口",
+    "area": "2,010",
+    "hometown": "田心里"
+  },
+  {
+    "number": 216,
+    "region": "南屯區",
+    "ParkName": "南屯公園",
+    "adress": "惠中路三段與大墩七街口",
+    "area": "14,630",
+    "hometown": "南屯里"
+  },
+  {
+    "number": 217,
+    "region": "南屯區",
+    "ParkName": "惠德兒童公園",
+    "adress": "惠德街與田心北三巷1弄口",
+    "area": "1,033",
+    "hometown": "黎明里"
+  },
+  {
+    "number": 218,
+    "region": "南屯區",
+    "ParkName": "懷德公園",
+    "adress": "干城街115巷",
+    "area": "1,000",
+    "hometown": "黎明里"
+  },
+  {
+    "number": 219,
+    "region": "南屯區",
+    "ParkName": "豐樂公園",
+    "adress": "向心南路與文心南五路口",
+    "area": "64,000",
+    "hometown": "豐樂里"
+  },
+  {
+    "number": 220,
+    "region": "南屯區",
+    "ParkName": "文心森林公園",
+    "adress": "文心路一段與向上路二段口",
+    "area": "88,000",
+    "hometown": "田心里"
+  },
+  {
+    "number": 221,
+    "region": "南屯區",
+    "ParkName": "三義公園",
+    "adress": "河南路4段",
+    "area": "1,500",
+    "hometown": "三義里"
+  },
+  {
+    "number": 222,
+    "region": "南屯區",
+    "ParkName": "公7-1部分簡易綠美化",
+    "adress": "永春東二路旁",
+    "area": 240,
+    "hometown": "九德里"
+  },
+  {
+    "number": 223,
+    "region": "南屯區",
+    "ParkName": "細公1",
+    "adress": "嶺東南路與春安三街口",
+    "area": "2,188",
+    "hometown": "春社里"
+  },
+  {
+    "number": 224,
+    "region": "南屯區",
+    "ParkName": "細兒2",
+    "adress": "嶺東南路與春安三街口",
+    "area": "2,695",
+    "hometown": "春社里"
+  },
+  {
+    "number": 225,
+    "region": "南屯區",
+    "ParkName": "公兼兒1",
+    "adress": "義昌六街往東約100公尺",
+    "area": "10,708",
+    "hometown": "三厝里"
+  },
+  {
+    "number": 226,
+    "region": "南屯區",
+    "ParkName": "公兼兒2",
+    "adress": "永春路與益文二街",
+    "area": "14,734",
+    "hometown": "永定里"
+  },
+  {
+    "number": 227,
+    "region": "南屯區",
+    "ParkName": "公兼兒3",
+    "adress": "細9M-1往西約50公尺",
+    "area": "1,869",
+    "hometown": "永定里"
+  },
+  {
+    "number": 228,
+    "region": "南屯區",
+    "ParkName": "公15",
+    "adress": "五權西路二段與文心南五路三段",
+    "area": "2,184",
+    "hometown": "三厝里"
+  },
+  {
+    "number": 229,
+    "region": "南屯區",
+    "ParkName": "廣兼停112",
+    "adress": "文心南五路三段與向上路三段",
+    "area": "2,299",
+    "hometown": "三厝里"
+  },
+  {
+    "number": 230,
+    "region": "南區",
+    "ParkName": "長春公園",
+    "adress": "合作街與正義街",
+    "area": "13,663",
+    "hometown": "長春里"
+  },
+  {
+    "number": 231,
+    "region": "南區",
+    "ParkName": "永和公園",
+    "adress": "南和路88巷永和國宅旁",
+    "area": "3,001",
+    "hometown": "永和里"
+  },
+  {
+    "number": 232,
+    "region": "南區",
+    "ParkName": "福順公園",
+    "adress": "復興路2段99巷",
+    "area": "4,750",
+    "hometown": "福順里"
+  },
+  {
+    "number": 233,
+    "region": "南區",
+    "ParkName": "民興公園",
+    "adress": "民興街與建國北路二段(民興街與光輝街口)",
+    "area": "4,750",
+    "hometown": "福平里"
+  },
+  {
+    "number": 234,
+    "region": "南區",
+    "ParkName": "文林公園",
+    "adress": "建國南路與建國南路2段150巷(文林街與美村路鐵路邊)",
+    "area": "3,285",
+    "hometown": "福平里"
+  },
+  {
+    "number": 235,
+    "region": "南區",
+    "ParkName": "樹仁公園",
+    "adress": "福田二街與樹義路口",
+    "area": "6,913",
+    "hometown": "樹義里"
+  },
+  {
+    "number": 236,
+    "region": "南區",
+    "ParkName": "樹義公園",
+    "adress": "福田三街與大慶街一段257-3巷",
+    "area": "3,500",
+    "hometown": "樹義里"
+  },
+  {
+    "number": 237,
+    "region": "南區",
+    "ParkName": "南平公園",
+    "adress": "福新街與和昌街口",
+    "area": "5,261",
+    "hometown": "福興里"
+  },
+  {
+    "number": 238,
+    "region": "南區",
+    "ParkName": "大慶公園",
+    "adress": "工學北路與德富路",
+    "area": "2,427",
+    "hometown": "工學里"
+  },
+  {
+    "number": 239,
+    "region": "南區",
+    "ParkName": "宜寧公園",
+    "adress": "復興路2段15巷",
+    "area": "2,728",
+    "hometown": "和平里"
+  },
+  {
+    "number": 240,
+    "region": "南區",
+    "ParkName": "樹仔腳公園",
+    "adress": "德富路120巷與德富路",
+    "area": "2,900",
+    "hometown": "樹德里"
+  },
+  {
+    "number": 241,
+    "region": "南區",
+    "ParkName": "積善公園",
+    "adress": "大明路與五權南路",
+    "area": "4,800",
+    "hometown": "積善里"
+  },
+  {
+    "number": 242,
+    "region": "南區",
+    "ParkName": "崇倫公園",
+    "adress": "忠明南路與南屯路一段口",
+    "area": "38,000",
+    "hometown": "西川里"
+  },
+  {
+    "number": 243,
+    "region": "南區",
+    "ParkName": "兒173公園",
+    "adress": "永興四巷與高工南路口",
+    "area": "2,200",
+    "hometown": "永興里"
+  },
+  {
+    "number": 244,
+    "region": "南區",
+    "ParkName": "兒91公園",
+    "adress": "東興路一段與忠明南路730巷口",
+    "area": "1,400",
+    "hometown": "崇倫里"
+  },
+  {
+    "number": 245,
+    "region": "南區",
+    "ParkName": "國光公園",
+    "adress": "近瑞豐街38巷與瑞豐街口後方(南門市場)",
+    "area": 784,
+    "hometown": "國光里"
+  },
+  {
+    "number": 246,
+    "region": "南區",
+    "ParkName": "樹德公園",
+    "adress": "文心南路與樹德一巷口",
+    "area": "21,000",
+    "hometown": "樹德里、九德里"
+  },
+  {
+    "number": 247,
+    "region": "南區",
+    "ParkName": "健康公園",
+    "adress": "五權南路與忠明南路口",
+    "area": "52,000",
+    "hometown": "平和里"
+  },
+  {
+    "number": 248,
+    "region": "西區",
+    "ParkName": "忠誠公園",
+    "adress": "忠明路與華美街口",
+    "area": "3,210",
+    "hometown": "忠誠里"
+  },
+  {
+    "number": 249,
+    "region": "西區",
+    "ParkName": "民龍公園",
+    "adress": "博館一街與民權路附近",
+    "area": "4,200",
+    "hometown": "民龍里"
+  },
+  {
+    "number": 250,
+    "region": "西區",
+    "ParkName": "忠明公園",
+    "adress": "華美街與忠誠街口",
+    "area": "5,600",
+    "hometown": "忠明里"
+  },
+  {
+    "number": 251,
+    "region": "西區",
+    "ParkName": "中美公園",
+    "adress": "中美街與長春街口",
+    "area": "2,870",
+    "hometown": "忠明里"
+  },
+  {
+    "number": 252,
+    "region": "西區",
+    "ParkName": "公益公園",
+    "adress": "華美街與公益路口",
+    "area": "4,800",
+    "hometown": "公德里"
+  },
+  {
+    "number": 253,
+    "region": "西區",
+    "ParkName": "茄苳公園",
+    "adress": "梅川東路一段與均安街131巷",
+    "area": "2,700",
+    "hometown": "後龍里"
+  },
+  {
+    "number": 254,
+    "region": "西區",
+    "ParkName": "五福公園",
+    "adress": "忠明南路與福人街口",
+    "area": 560,
+    "hometown": "昇平里"
+  },
+  {
+    "number": 255,
+    "region": "西區",
+    "ParkName": "忠勤公園",
+    "adress": "忠勤街與忠仁街151巷口",
+    "area": "1,278",
+    "hometown": "安龍里"
+  },
+  {
+    "number": 256,
+    "region": "西區",
+    "ParkName": "自立公園",
+    "adress": "柳川西路二段與自立街口",
+    "area": "1,688",
+    "hometown": "平和里"
+  },
+  {
+    "number": 257,
+    "region": "西區",
+    "ParkName": "光明公園",
+    "adress": "大忠南街與忠明南路20巷口",
+    "area": "1,775",
+    "hometown": "大忠里"
+  },
+  {
+    "number": 258,
+    "region": "西區",
+    "ParkName": "土庫公園",
+    "adress": "忠明南路與五權五街口",
+    "area": "2,500",
+    "hometown": "土庫里"
+  },
+  {
+    "number": 259,
+    "region": "西區",
+    "ParkName": "美村公園",
+    "adress": "美村路一段與五權西四街13巷口",
+    "area": "1,202",
+    "hometown": "吉龍里"
+  },
+  {
+    "number": 260,
+    "region": "西區",
+    "ParkName": "上公館公園",
+    "adress": "柳川西路ㄧ段與五權五街口",
+    "area": "3,100",
+    "hometown": "公民里"
+  },
+  {
+    "number": 261,
+    "region": "西區",
+    "ParkName": "樂群公園",
+    "adress": "東興路二段與大新街口",
+    "area": "6,809",
+    "hometown": "藍興里"
+  },
+  {
+    "number": 262,
+    "region": "西區",
+    "ParkName": "藍興公園",
+    "adress": "樂群街與大新街口",
+    "area": "5,984",
+    "hometown": "藍興里"
+  },
+  {
+    "number": 263,
+    "region": "西區",
+    "ParkName": "公館公園",
+    "adress": "自由路一段與三民路ㄧ段口",
+    "area": "7,800",
+    "hometown": "藍興里"
+  },
+  {
+    "number": 264,
+    "region": "西區",
+    "ParkName": "梅川河岸公園",
+    "adress": "梅川東路一段與梅川西路ㄧ段間",
+    "area": "7,336",
+    "hometown": "安龍里"
+  },
+  {
+    "number": 265,
+    "region": "中區",
+    "ParkName": "中華路親水公園",
+    "adress": "中華路與光復路",
+    "area": 309,
+    "hometown": "六合里、中華里、大誠里"
+  },
+  {
+    "number": 266,
+    "region": "西區",
+    "ParkName": "東興公園",
+    "adress": "東興路三段與大業路口",
+    "area": "10,915",
+    "hometown": "公平里"
+  },
+  {
+    "number": 267,
+    "region": "西區",
+    "ParkName": "大益公園",
+    "adress": "東興路三段與大墩11街口",
+    "area": "1,547",
+    "hometown": "公正里"
+  },
+  {
+    "number": 268,
+    "region": "西區",
+    "ParkName": "萬壽公園",
+    "adress": "大墩路與向上南路ㄧ段口",
+    "area": "22,808",
+    "hometown": "公正里"
+  },
+  {
+    "number": 269,
+    "region": "西區",
+    "ParkName": "大忠公園",
+    "adress": "精誠30街與大忠街口",
+    "area": "1,406",
+    "hometown": "公德里"
+  },
+  {
+    "number": 270,
+    "region": "西區",
+    "ParkName": "市民廣場",
+    "adress": "公益路與中興街口",
+    "area": "30,000",
+    "hometown": "中興里"
+  },
+  {
+    "number": 271,
+    "region": "西區",
+    "ParkName": "麻園頭兒童公園",
+    "adress": "五權五街與大忠南街口",
+    "area": 790,
+    "hometown": "大忠里"
+  },
+  {
+    "number": 272,
+    "region": "和平區",
+    "ParkName": "雙崎社區部落公園",
+    "adress": "和平區自由里東崎路二段(自由國小對面)",
+    "area": "6,193",
+    "hometown": "自由里"
+  },
+  {
+    "number": 273,
+    "region": "和平區",
+    "ParkName": "和平社區重劃公園",
+    "adress": "和平區南勢里崑崙巷",
+    "area": "2,164",
+    "hometown": "南勢里"
+  },
+  {
+    "number": 274,
+    "region": "東勢區",
+    "ParkName": "大甲溪河濱公園",
+    "adress": "中正路靠近大甲溪旁",
+    "area": "101,940",
+    "hometown": "北興里、中寧里、東安里、南平里、延平里"
+  },
+  {
+    "number": 275,
+    "region": "東勢區",
+    "ParkName": "中正公園",
+    "adress": "豐勢路及中正路口",
+    "area": "11,454",
+    "hometown": "北興里"
+  },
+  {
+    "number": 276,
+    "region": "東勢區",
+    "ParkName": "廣興里公園",
+    "adress": "勢林街126號",
+    "area": "1,739",
+    "hometown": "廣興里"
+  },
+  {
+    "number": 277,
+    "region": "東勢區",
+    "ParkName": "泰昌里公園",
+    "adress": "泰昌街旁",
+    "area": "3,552",
+    "hometown": "泰昌里"
+  },
+  {
+    "number": 278,
+    "region": "東勢區",
+    "ParkName": "東新里公園",
+    "adress": "地政事務所後",
+    "area": "2,703",
+    "hometown": "東新里"
+  },
+  {
+    "number": 279,
+    "region": "東勢區",
+    "ParkName": "東勢區鯉魚伯公公園",
+    "adress": "中正路托兒所旁",
+    "area": "10,161",
+    "hometown": "東安里"
+  },
+  {
+    "number": 280,
+    "region": "新社區",
+    "ParkName": "復盛公園",
+    "adress": "興社街二段老人文康中心旁",
+    "area": "46,057",
+    "hometown": "復盛里"
+  },
+  {
+    "number": 281,
+    "region": "后里區",
+    "ParkName": "后里環保公園",
+    "adress": "堤防路516號",
+    "area": "170,000",
+    "hometown": "舊社里"
+  },
+  {
+    "number": 282,
+    "region": "后里區",
+    "ParkName": "第四號公園",
+    "adress": "大圳路265號",
+    "area": "12,000",
+    "hometown": "中和里"
+  },
+  {
+    "number": 283,
+    "region": "石岡區",
+    "ParkName": "和盛公園",
+    "adress": "和盛里和盛街10號附近",
+    "area": "9,190",
+    "hometown": "和盛里"
+  },
+  {
+    "number": 284,
+    "region": "石岡區",
+    "ParkName": "五福臨門神木園區",
+    "adress": "龍興里萬仙街岡仙巷1-1號附近",
+    "area": "6,824",
+    "hometown": "龍興里"
+  },
+  {
+    "number": 285,
+    "region": "石岡區",
+    "ParkName": "梅子懷舊公園",
+    "adress": "梅子里梅子巷37弄47號附近",
+    "area": 507,
+    "hometown": "梅子里"
+  },
+  {
+    "number": 286,
+    "region": "石岡區",
+    "ParkName": "長青公園",
+    "adress": "梅子里豐勢路和順巷52號旁",
+    "area": 161,
+    "hometown": "梅子里"
+  },
+  {
+    "number": 287,
+    "region": "石岡區",
+    "ParkName": "德興公園",
+    "adress": "德興里豐勢路134號後方",
+    "area": 886,
+    "hometown": "德興里"
+  },
+  {
+    "number": 288,
+    "region": "石岡區",
+    "ParkName": "新石社區",
+    "adress": "德興里新石社區",
+    "area": 336,
+    "hometown": "德興里"
+  },
+  {
+    "number": 289,
+    "region": "沙鹿區",
+    "ParkName": "鎮立公園",
+    "adress": "鎮南路、鎮政路（區公所對面）",
+    "area": "47,371",
+    "hometown": "興仁里、美仁里"
+  },
+  {
+    "number": 290,
+    "region": "沙鹿區",
+    "ParkName": "鹿鳴公園",
+    "adress": "光華路（鹿寮國中對面）",
+    "area": "12,008",
+    "hometown": "鹿寮里"
+  },
+  {
+    "number": 291,
+    "region": "沙鹿區",
+    "ParkName": "青年公園",
+    "adress": "東晉路、東英路口",
+    "area": "4,561",
+    "hometown": "福興里、六路里"
+  },
+  {
+    "number": 292,
+    "region": "沙鹿區",
+    "ParkName": "南勢溪公園",
+    "adress": "南斗路、南斗路192巷、自由路口",
+    "area": "7,451",
+    "hometown": "南勢里"
+  },
+  {
+    "number": 293,
+    "region": "沙鹿區",
+    "ParkName": "明秀公園",
+    "adress": "正順路107巷對面",
+    "area": "14,516",
+    "hometown": "埔子里"
+  },
+  {
+    "number": 294,
+    "region": "沙鹿區",
+    "ParkName": "三鹿公園",
+    "adress": "自強路291巷",
+    "area": "10,858",
+    "hometown": "三鹿里"
+  },
+  {
+    "number": 295,
+    "region": "沙鹿區",
+    "ParkName": "青山公園",
+    "adress": "鎮南路2段、福至路口",
+    "area": "16,449",
+    "hometown": "福興里"
+  },
+  {
+    "number": 296,
+    "region": "沙鹿區",
+    "ParkName": "六福公園",
+    "adress": "北勢東路265巷",
+    "area": "12,706",
+    "hometown": "六路里"
+  },
+  {
+    "number": 297,
+    "region": "沙鹿區",
+    "ParkName": "晉宜公園",
+    "adress": "晉文路20巷",
+    "area": "8,019",
+    "hometown": "晉江里"
+  },
+  {
+    "number": 298,
+    "region": "沙鹿區",
+    "ParkName": "兒童公園",
+    "adress": "北勢東路、北中七街",
+    "area": "6,183",
+    "hometown": "北勢里"
+  },
+  {
+    "number": 299,
+    "region": "梧棲區",
+    "ParkName": "情人公園",
+    "adress": "雲集街70巷與雲集街口",
+    "area": "8,404",
+    "hometown": "中正里"
+  },
+  {
+    "number": 300,
+    "region": "梧棲區",
+    "ParkName": "兒一兒童遊樂場",
+    "adress": "自強一街90巷與自強二街口",
+    "area": "1,919",
+    "hometown": "草湳里"
+  },
+  {
+    "number": 301,
+    "region": "梧棲區",
+    "ParkName": "兒二兒童遊樂場",
+    "adress": "自強二街與自強二街28巷口",
+    "area": "1,968",
+    "hometown": "草湳里"
+  },
+  {
+    "number": 302,
+    "region": "梧棲區",
+    "ParkName": "兒三兒童遊樂場",
+    "adress": "自強三街與自強三街64巷口",
+    "area": "1,883",
+    "hometown": "草湳里"
+  },
+  {
+    "number": 303,
+    "region": "梧棲區",
+    "ParkName": "頂漁寮公園",
+    "adress": "八德東路旁",
+    "area": "31,135",
+    "hometown": "頂寮里"
+  },
+  {
+    "number": 304,
+    "region": "梧棲區",
+    "ParkName": "臺中港特定區(市鎮中心)『兒童遊樂場』",
+    "adress": "大仁南路旁",
+    "area": "7,250",
+    "hometown": "頂寮里"
+  },
+  {
+    "number": 305,
+    "region": "豐原區",
+    "ParkName": "葫蘆墩公園(第1區)",
+    "adress": "圓環北路2段26號，豐原國中對面",
+    "area": "33,350",
+    "hometown": "東湳里、北湳里"
+  },
+  {
+    "number": 306,
+    "region": "豐原區",
+    "ParkName": "葫蘆墩公園(第2區)",
+    "adress": "文賢街76號對面",
+    "area": "19,254",
+    "hometown": "西湳里、大湳里"
+  },
+  {
+    "number": 307,
+    "region": "豐原區",
+    "ParkName": "葫蘆墩公園(第3區)",
+    "adress": "圓環北路一段125號",
+    "area": "27,516",
+    "hometown": "西湳里、大湳里、圳寮里"
+  },
+  {
+    "number": 308,
+    "region": "豐原區",
+    "ParkName": "葫蘆墩公園(第4區)",
+    "adress": "圓環北路一段47號",
+    "area": "19,709",
+    "hometown": "西湳里、圳寮里"
+  },
+  {
+    "number": 309,
+    "region": "豐原區",
+    "ParkName": "葫蘆墩公園(第5區)",
+    "adress": "圓環西路176號對面",
+    "area": "61,528",
+    "hometown": "豐圳里、圳寮里"
+  },
+  {
+    "number": 310,
+    "region": "豐原區",
+    "ParkName": "慈濟公園",
+    "adress": "豐東路539號",
+    "area": "26,029",
+    "hometown": "南村里、翁子里"
+  },
+  {
+    "number": 311,
+    "region": "豐原區",
+    "ParkName": "中正公園",
+    "adress": "水源路1號",
+    "area": "55,242",
+    "hometown": "南嵩里"
+  },
+  {
+    "number": 312,
+    "region": "豐原區",
+    "ParkName": "豐圳公園",
+    "adress": "成功路520號",
+    "area": "42,164",
+    "hometown": "豐圳里"
+  },
+  {
+    "number": 313,
+    "region": "豐原區",
+    "ParkName": "童樂園",
+    "adress": "中興路201號",
+    "area": "3,117",
+    "hometown": "西勢里"
+  },
+  {
+    "number": 314,
+    "region": "豐原區",
+    "ParkName": "三陽運動公園",
+    "adress": "北陽路35號",
+    "area": "11,102",
+    "hometown": "南村里"
+  },
+  {
+    "number": 315,
+    "region": "豐原區",
+    "ParkName": "翁明公園",
+    "adress": "直興街236號旁",
+    "area": "9,207",
+    "hometown": "翁明里"
+  },
+  {
+    "number": 316,
+    "region": "豐原區",
+    "ParkName": "消防公園",
+    "adress": "豐原大道七段與仁洲街交會口",
+    "area": "8,992",
+    "hometown": "西湳里"
+  },
+  {
+    "number": 317,
+    "region": "豐原區",
+    "ParkName": "南村公園",
+    "adress": "北陽二街25號邊",
+    "area": "2,881",
+    "hometown": "南村里"
+  },
+  {
+    "number": 318,
+    "region": "豐原區",
+    "ParkName": "北陽公園",
+    "adress": "中陽路537巷口斜對面",
+    "area": "3,272",
+    "hometown": "北陽里"
+  },
+  {
+    "number": 319,
+    "region": "豐原區",
+    "ParkName": "怡松園",
+    "adress": "中陽路與中陽東街交會口",
+    "area": "1,851",
+    "hometown": "北陽里"
+  },
+  {
+    "number": 320,
+    "region": "豐原區",
+    "ParkName": "永康公園",
+    "adress": "豐原大道三段與永康路263弄交會口",
+    "area": "2,318",
+    "hometown": "南陽里"
+  },
+  {
+    "number": 321,
+    "region": "豐原區",
+    "ParkName": "豐東公園",
+    "adress": "豐東路118巷18號",
+    "area": "4,097",
+    "hometown": "北陽里"
+  },
+  {
+    "number": 322,
+    "region": "豐原區",
+    "ParkName": "西湳兒童遊戲場",
+    "adress": "葫蘆墩一街與葫蘆墩二街交會口",
+    "area": "2,856",
+    "hometown": "西湳里"
+  },
+  {
+    "number": 323,
+    "region": "豐原區",
+    "ParkName": "中陽公園",
+    "adress": "自立街76號",
+    "area": "8,736",
+    "hometown": "中陽里"
+  },
+  {
+    "number": 324,
+    "region": "豐原區",
+    "ParkName": "隆豐公兒公園(1)",
+    "adress": "隆豐街68號對面",
+    "area": "2,530",
+    "hometown": "豐原里"
+  },
+  {
+    "number": 325,
+    "region": "豐原區",
+    "ParkName": "隆豐公兒公園(2)",
+    "adress": "隆豐街28巷23號",
+    "area": 430,
+    "hometown": "豐原里"
+  },
+  {
+    "number": 326,
+    "region": "豐原區",
+    "ParkName": "田心公園(公1)",
+    "adress": "市政路2號對面，區公所對面",
+    "area": "9,614",
+    "hometown": "田心里"
+  },
+  {
+    "number": 327,
+    "region": "豐原區",
+    "ParkName": "田心公園(公2)",
+    "adress": "市政路與田心路交會口",
+    "area": "1,404",
+    "hometown": "豐田里"
+  },
+  {
+    "number": 328,
+    "region": "豐原區",
+    "ParkName": "南陽公園",
+    "adress": "永康路181巷2號",
+    "area": "7,539",
+    "hometown": "南陽里"
+  },
+  {
+    "number": 329,
+    "region": "豐原區",
+    "ParkName": "南嵩里藝文公園",
+    "adress": "水源路9巷133號",
+    "area": "2,065",
+    "hometown": "南嵩里"
+  },
+  {
+    "number": 330,
+    "region": "豐原區",
+    "ParkName": "社皮公園",
+    "adress": "社興五街2號",
+    "area": "8,332",
+    "hometown": "社皮里"
+  },
+  {
+    "number": 331,
+    "region": "豐原區",
+    "ParkName": "三村重劃區公園",
+    "adress": "豐原大道1段625街口",
+    "area": "3,202",
+    "hometown": "三村里"
+  },
+  {
+    "number": 332,
+    "region": "豐原區",
+    "ParkName": "三村兒童公園",
+    "adress": "互助街與同心街交會口",
+    "area": "1,813",
+    "hometown": "三村里"
+  },
+  {
+    "number": 333,
+    "region": "豐原區",
+    "ParkName": "武明山公園",
+    "adress": "南陽一街旁",
+    "area": "3,020",
+    "hometown": "南陽里"
+  },
+  {
+    "number": 334,
+    "region": "豐原區",
+    "ParkName": "成功路重劃區公兒1",
+    "adress": "位於成功路兩側細部計畫重劃區內，共有3處",
+    "area": "2,154",
+    "hometown": "中興里、西勢里"
+  },
+  {
+    "number": 335,
+    "region": "神岡區",
+    "ParkName": "豐洲公園",
+    "adress": "大明路",
+    "area": "18,000",
+    "hometown": "豐洲里"
+  },
+  {
+    "number": 336,
+    "region": "神岡區",
+    "ParkName": "消防公園",
+    "adress": "東洲路",
+    "area": "1,110",
+    "hometown": "豐洲里"
+  },
+  {
+    "number": 337,
+    "region": "神岡區",
+    "ParkName": "圳堵公園",
+    "adress": "公園街",
+    "area": "5,800",
+    "hometown": "圳堵里"
+  },
+  {
+    "number": 338,
+    "region": "大甲區",
+    "ParkName": "中山公園",
+    "adress": "水源路與甲東路交會口",
+    "area": "14,300",
+    "hometown": "中山里"
+  },
+  {
+    "number": 339,
+    "region": "大甲區",
+    "ParkName": "公所後方公園",
+    "adress": "三民路與新政路交會口",
+    "area": "1,700",
+    "hometown": "孔門里"
+  },
+  {
+    "number": 340,
+    "region": "大甲區",
+    "ParkName": "日南公園",
+    "adress": "中山路二段與慈德路交會口",
+    "area": "12,300",
+    "hometown": "孟春里"
+  },
+  {
+    "number": 341,
+    "region": "大甲區",
+    "ParkName": "孟春兒童遊樂場",
+    "adress": "慈德路旁",
+    "area": "2,396",
+    "hometown": "孟春里"
+  },
+  {
+    "number": 342,
+    "region": "大甲區",
+    "ParkName": "幼獅公園",
+    "adress": "幼獅路旁(近中山路二段)",
+    "area": "14,872",
+    "hometown": "日南里"
+  },
+  {
+    "number": 343,
+    "region": "外埔區",
+    "ParkName": "六分公園",
+    "adress": "六分路",
+    "area": "1,023",
+    "hometown": "六分里"
+  },
+  {
+    "number": 344,
+    "region": "外埔區",
+    "ParkName": "重光公園",
+    "adress": "重光路旁",
+    "area": "1,754",
+    "hometown": "大同里"
+  },
+  {
+    "number": 345,
+    "region": "大雅區",
+    "ParkName": "大雅公園",
+    "adress": "中清南路與光明巷",
+    "area": "6,889",
+    "hometown": "大雅里"
+  },
+  {
+    "number": 346,
+    "region": "大雅區",
+    "ParkName": "六寶公園",
+    "adress": "大雅區月祥路上",
+    "area": "1,789",
+    "hometown": "六寶里"
+  },
+  {
+    "number": 347,
+    "region": "大雅區",
+    "ParkName": "三和公園",
+    "adress": "龍善二街與龍善二街180巷交會口",
+    "area": "17,956",
+    "hometown": "三和里"
+  },
+  {
+    "number": 348,
+    "region": "大雅區",
+    "ParkName": "汝鎏公園",
+    "adress": "信義路87號對面",
+    "area": "7,305",
+    "hometown": "忠義里"
+  },
+  {
+    "number": 349,
+    "region": "潭子區",
+    "ParkName": "福仁環保公園",
+    "adress": "合作街38巷旁",
+    "area": "9,678",
+    "hometown": "福仁里"
+  },
+  {
+    "number": 350,
+    "region": "潭子區",
+    "ParkName": "栗林公園",
+    "adress": "吉林１街旁",
+    "area": "5,281",
+    "hometown": "栗林里"
+  },
+  {
+    "number": 351,
+    "region": "潭子區",
+    "ParkName": "頭家公園",
+    "adress": "頭張路1段與和平路交叉口",
+    "area": "2,948",
+    "hometown": "頭家里"
+  },
+  {
+    "number": 352,
+    "region": "潭子區",
+    "ParkName": "公兒2公園",
+    "adress": "興華1路357巷旁",
+    "area": "2,121",
+    "hometown": "甘蔗里"
+  },
+  {
+    "number": 353,
+    "region": "潭子區",
+    "ParkName": "公兒3公園",
+    "adress": "潭興路3段、勝利十街交叉口",
+    "area": "2,125",
+    "hometown": "甘蔗里"
+  },
+  {
+    "number": 354,
+    "region": "潭子區",
+    "ParkName": "公兒五(櫻花)公園",
+    "adress": "中山路2段237巷口(公所旁)",
+    "area": "2,330",
+    "hometown": "潭陽里"
+  },
+  {
+    "number": 355,
+    "region": "潭子區",
+    "ParkName": "公兒5-2(第1期)公園",
+    "adress": "大富路一段/大德一路",
+    "area": "1,693",
+    "hometown": "東寶里"
+  },
+  {
+    "number": 356,
+    "region": "潭子區",
+    "ParkName": "公兒1公園",
+    "adress": "民生街98巷/祥和路106巷",
+    "area": 713,
+    "hometown": "栗林里"
+  },
+  {
+    "number": 357,
+    "region": "大里區",
+    "ParkName": "大里公園",
+    "adress": "東榮路與德芳路",
+    "area": "11,292",
+    "hometown": "長榮里"
+  },
+  {
+    "number": 358,
+    "region": "大里區",
+    "ParkName": "國光公園",
+    "adress": "國光路與興大南街",
+    "area": "19,132",
+    "hometown": "永隆里"
+  },
+  {
+    "number": 359,
+    "region": "大里區",
+    "ParkName": "環河公園",
+    "adress": "環河路與永隆六街",
+    "area": "24,108",
+    "hometown": "永隆里"
+  },
+  {
+    "number": 360,
+    "region": "大里區",
+    "ParkName": "環保公園",
+    "adress": "德芳路二段與永大街",
+    "area": "15,012",
+    "hometown": "新里里"
+  },
+  {
+    "number": 361,
+    "region": "大里區",
+    "ParkName": "進士公園",
+    "adress": "德芳路二段，樹王路",
+    "area": "3,300",
+    "hometown": "新里里"
+  },
+  {
+    "number": 362,
+    "region": "大里區",
+    "ParkName": "國興公園",
+    "adress": "國光路與仁興街",
+    "area": "3,600",
+    "hometown": "大明里"
+  },
+  {
+    "number": 363,
+    "region": "大里區",
+    "ParkName": "運動公園",
+    "adress": "國光路與大里路口",
+    "area": "63,065",
+    "hometown": "國光里"
+  },
+  {
+    "number": 364,
+    "region": "大里區",
+    "ParkName": "德芳兒童公園",
+    "adress": "德芳路與德方南三街",
+    "area": "4,565",
+    "hometown": "長榮里"
+  },
+  {
+    "number": 365,
+    "region": "大里區",
+    "ParkName": "大新兒童公園",
+    "adress": "大裏路與大裏一街口",
+    "area": "2,989",
+    "hometown": "國光里"
+  },
+  {
+    "number": 366,
+    "region": "大里區",
+    "ParkName": "大明兒童公園",
+    "adress": "大明路與永大街",
+    "area": "4,282",
+    "hometown": "永隆里"
+  },
+  {
+    "number": 367,
+    "region": "大里區",
+    "ParkName": "永明兒童公園",
+    "adress": "永明街與永隆三街",
+    "area": "2,744",
+    "hometown": "永隆里"
+  },
+  {
+    "number": 368,
+    "region": "大里區",
+    "ParkName": "爽文兒童公園",
+    "adress": "爽文路與永隆二街",
+    "area": "2,009",
+    "hometown": "新里里"
+  },
+  {
+    "number": 369,
+    "region": "大里區",
+    "ParkName": "大德公園",
+    "adress": "大德街與大德街55巷",
+    "area": "2,623",
+    "hometown": "東興里"
+  },
+  {
+    "number": 370,
+    "region": "大里區",
+    "ParkName": "新忠公園",
+    "adress": "立人高中北側",
+    "area": "2,749",
+    "hometown": "內新里"
+  },
+  {
+    "number": 371,
+    "region": "大里區",
+    "ParkName": "日新社區公園",
+    "adress": "日新路、吉隆路口",
+    "area": "3,937",
+    "hometown": "日新里"
+  },
+  {
+    "number": 372,
+    "region": "大里區",
+    "ParkName": "東明公園",
+    "adress": "東明路與東明路147巷",
+    "area": "2,569",
+    "hometown": "西榮里"
+  },
+  {
+    "number": 373,
+    "region": "大里區",
+    "ParkName": "日新河濱公園",
+    "adress": "福大路",
+    "area": "4,500",
+    "hometown": "日新里"
+  },
+  {
+    "number": 374,
+    "region": "大里區",
+    "ParkName": "鳥竹圍公園",
+    "adress": "大智路旁",
+    "area": "45,300",
+    "hometown": "祥興里"
+  },
+  {
+    "number": 375,
+    "region": "大里區",
+    "ParkName": "滿庭芳公園",
+    "adress": "大里段1665地號",
+    "area": 369,
+    "hometown": "新里里"
+  },
+  {
+    "number": 376,
+    "region": "大里區",
+    "ParkName": "青年公園",
+    "adress": "公園街與公園街421巷",
+    "area": "20,000",
+    "hometown": "東湖里"
+  },
+  {
+    "number": 377,
+    "region": "大里區",
+    "ParkName": "九二一紀念公園",
+    "adress": "瑞城國小旁、瑞和宮前",
+    "area": "4,900",
+    "hometown": "瑞城里"
+  },
+  {
+    "number": 378,
+    "region": "大里區",
+    "ParkName": "金城社區公園",
+    "adress": "上興街65巷旁",
+    "area": "5,206",
+    "hometown": "金城里"
+  },
+  {
+    "number": 379,
+    "region": "大里區",
+    "ParkName": "長春社區公園",
+    "adress": "長春路78巷",
+    "area": "4,182",
+    "hometown": "東湖里"
+  },
+  {
+    "number": 380,
+    "region": "大里區",
+    "ParkName": "成功兒童公園",
+    "adress": "成功路與美村街(瑞城國小西北側)",
+    "area": "7,249",
+    "hometown": "金城里"
+  },
+  {
+    "number": 381,
+    "region": "大里區",
+    "ParkName": "文化公園",
+    "adress": "文化街、仁德街",
+    "area": "2,859",
+    "hometown": "仁德里"
+  },
+  {
+    "number": 382,
+    "region": "大里區",
+    "ParkName": "仁慈公園",
+    "adress": "仁慈街與金山街口",
+    "area": "2,400",
+    "hometown": "仁化里"
+  },
+  {
+    "number": 383,
+    "region": "大里區",
+    "ParkName": "瑞城三角公園",
+    "adress": "瑞城一街與成功路交叉口(瑞城國小前)",
+    "area": "1,300",
+    "hometown": "瑞城里"
+  },
+  {
+    "number": 384,
+    "region": "大里區",
+    "ParkName": "健民里社區義士公園",
+    "adress": "塗城路與銀聯一橋叉口",
+    "area": "5,000",
+    "hometown": "健民里"
+  },
+  {
+    "number": 385,
+    "region": "大里區",
+    "ParkName": "塗城社區公園",
+    "adress": "塗城路與銀聯路叉口",
+    "area": "14,200",
+    "hometown": "塗城里"
+  },
+  {
+    "number": 386,
+    "region": "大里區",
+    "ParkName": "仁美社區公園",
+    "adress": "仁愛路160巷旁",
+    "area": "13,000",
+    "hometown": "仁化里"
+  },
+  {
+    "number": 387,
+    "region": "大里區",
+    "ParkName": "立德社區公園",
+    "adress": "立仁五路與甲堤路交叉口",
+    "area": "3,600",
+    "hometown": "立德里"
+  },
+  {
+    "number": 388,
+    "region": "大里區",
+    "ParkName": "仁堤公園",
+    "adress": "仁堤一街與仁堤路交叉口",
+    "area": "5,700",
+    "hometown": "仁化里"
+  },
+  {
+    "number": 389,
+    "region": "大里區",
+    "ParkName": "十九甲健康公園",
+    "adress": "甲堤路前400公尺圓環",
+    "area": "12,500",
+    "hometown": "立德里"
+  },
+  {
+    "number": 390,
+    "region": "霧峰區",
+    "ParkName": "吉峰公園",
+    "adress": "北溝溪畔，近清元橋，可由民生路417巷進入",
+    "area": "17,922",
+    "hometown": "吉峰里"
+  },
+  {
+    "number": 391,
+    "region": "烏日區",
+    "ParkName": "公一公園",
+    "adress": "五光路與公園路交叉口",
+    "area": "20,780",
+    "hometown": "烏日里"
+  },
+  {
+    "number": 392,
+    "region": "烏日區",
+    "ParkName": "公二公園",
+    "adress": "公園路上（朝天宮旁）",
+    "area": "13,745",
+    "hometown": "湖日里"
+  },
+  {
+    "number": 393,
+    "region": "烏日區",
+    "ParkName": "兒二公園",
+    "adress": "中山路與新興路交叉口",
+    "area": "1,800",
+    "hometown": "湖日里"
+  },
+  {
+    "number": 394,
+    "region": "烏日區",
+    "ParkName": "兒三公園",
+    "adress": "民權街（接近大同六街）",
+    "area": "2,600",
+    "hometown": "烏日里"
+  },
+  {
+    "number": 395,
+    "region": "烏日區",
+    "ParkName": "兒四公園",
+    "adress": "大同路民生路交叉路口",
+    "area": "2,150",
+    "hometown": "烏日里"
+  },
+  {
+    "number": 396,
+    "region": "烏日區",
+    "ParkName": "兒五公園",
+    "adress": "民族街與大同二街口",
+    "area": 770,
+    "hometown": "烏日里"
+  },
+  {
+    "number": 397,
+    "region": "烏日區",
+    "ParkName": "鄰公七公園",
+    "adress": "大同8街",
+    "area": "2,300",
+    "hometown": "烏日里"
+  },
+  {
+    "number": 398,
+    "region": "烏日區",
+    "ParkName": "鄰公八公園",
+    "adress": "民權街上（接近大同8街）",
+    "area": "2,000",
+    "hometown": "烏日里"
+  },
+  {
+    "number": 399,
+    "region": "烏日區",
+    "ParkName": "兒九公園",
+    "adress": "一德街與公園三街交叉口",
+    "area": "4,800",
+    "hometown": "烏日里"
+  },
+  {
+    "number": 400,
+    "region": "烏日區",
+    "ParkName": "公兒十公園",
+    "adress": "公園路352巷旁",
+    "area": "1,000",
+    "hometown": "湖日里"
+  },
+  {
+    "number": 401,
+    "region": "烏日區",
+    "ParkName": "公兒十一公園",
+    "adress": "長春街172巷",
+    "area": 700,
+    "hometown": "九德里"
+  },
+  {
+    "number": 402,
+    "region": "烏日區",
+    "ParkName": "公兒十二公園",
+    "adress": "興祥街70巷底",
+    "area": 300,
+    "hometown": "仁德里"
+  },
+  {
+    "number": 403,
+    "region": "烏日區",
+    "ParkName": "公兒十三公園",
+    "adress": "興祥街40巷底",
+    "area": 800,
+    "hometown": "仁德里"
+  },
+  {
+    "number": 404,
+    "region": "烏日區",
+    "ParkName": "公兒十四公園",
+    "adress": "信義街309巷10弄",
+    "area": "1,300",
+    "hometown": "仁德里"
+  },
+  {
+    "number": 405,
+    "region": "烏日區",
+    "ParkName": "公兒十七公園",
+    "adress": "公園路新盛巷",
+    "area": 800,
+    "hometown": "湖日里"
+  },
+  {
+    "number": 406,
+    "region": "烏日區",
+    "ParkName": "自強公園",
+    "adress": "自強街與民德街口",
+    "area": "1,400",
+    "hometown": "九德里"
+  },
+  {
+    "number": 407,
+    "region": "烏日區",
+    "ParkName": "仁德休閒廣場",
+    "adress": "信義街上（托兒所旁）",
+    "area": 540,
+    "hometown": "仁德里"
+  },
+  {
+    "number": 408,
+    "region": "烏日區",
+    "ParkName": "公一",
+    "adress": "高鐵一路上與學田路上",
+    "area": "23,458",
+    "hometown": "三和里"
+  },
+  {
+    "number": 409,
+    "region": "烏日區",
+    "ParkName": "公二",
+    "adress": "高鐵東路與環河路口",
+    "area": "5,999",
+    "hometown": "三和里"
+  },
+  {
+    "number": 410,
+    "region": "烏日區",
+    "ParkName": "公三",
+    "adress": "三和路與三榮一路口",
+    "area": "6,152",
+    "hometown": "三和里"
+  },
+  {
+    "number": 411,
+    "region": "烏日區",
+    "ParkName": "公四",
+    "adress": "環河路與三榮七路口",
+    "area": "3,735",
+    "hometown": "三和里"
+  },
+  {
+    "number": 412,
+    "region": "烏日區",
+    "ParkName": "公五",
+    "adress": "健行路與高鐵路一段口",
+    "area": "1,182",
+    "hometown": "三和里"
+  },
+  {
+    "number": 413,
+    "region": "烏日區",
+    "ParkName": "公六",
+    "adress": "健行路與高鐵路一段口",
+    "area": "3,469",
+    "hometown": "三和里"
+  },
+  {
+    "number": 414,
+    "region": "烏日區",
+    "ParkName": "公七",
+    "adress": "三榮路二段與三榮十二路口對面",
+    "area": "13,770",
+    "hometown": "榮泉里"
+  },
+  {
+    "number": 415,
+    "region": "烏日區",
+    "ParkName": "公八",
+    "adress": "三榮路二段與三榮十三路口",
+    "area": "8,370",
+    "hometown": "榮泉里"
+  },
+  {
+    "number": 416,
+    "region": "烏日區",
+    "ParkName": "公兒九",
+    "adress": "三榮路一段與三榮三路口",
+    "area": "4,102",
+    "hometown": "三和里"
+  },
+  {
+    "number": 417,
+    "region": "烏日區",
+    "ParkName": "公兒十",
+    "adress": "三榮路一段與三榮八路口",
+    "area": "4,115",
+    "hometown": "三和里"
+  },
+  {
+    "number": 418,
+    "region": "烏日區",
+    "ParkName": "公兒十一",
+    "adress": "三榮路二段與三榮九路口",
+    "area": "4,997",
+    "hometown": "榮泉里"
+  },
+  {
+    "number": 419,
+    "region": "烏日區",
+    "ParkName": "公兒十二",
+    "adress": "健行路與三榮十五路口",
+    "area": "5,010",
+    "hometown": "榮泉里"
+  },
+  {
+    "number": 420,
+    "region": "烏日區",
+    "ParkName": "公兒十三",
+    "adress": "健行北一路上",
+    "area": "6,007",
+    "hometown": "榮泉里"
+  },
+  {
+    "number": 421,
+    "region": "烏日區",
+    "ParkName": "公兒十四",
+    "adress": "環河路與榮泉路口",
+    "area": "15,029",
+    "hometown": "榮泉里"
+  },
+  {
+    "number": 422,
+    "region": "烏日區",
+    "ParkName": "麻園頭溪溪濱公園",
+    "adress": "中山路、麻園頭溪東、西路",
+    "area": "12,856",
+    "hometown": "烏日里、九德里、仁德里"
+  },
+  {
+    "number": 423,
+    "region": "烏日區",
+    "ParkName": "前竹環保公園",
+    "adress": "光日路157巷",
+    "area": "5,567",
+    "hometown": "前竹里"
+  },
+  {
+    "number": 424,
+    "region": "烏日區",
+    "ParkName": "重光公園",
+    "adress": "近溪南路重光巷",
+    "area": 150,
+    "hometown": "溪壩里"
+  },
+  {
+    "number": 425,
+    "region": "大肚區",
+    "ParkName": "王田社區公園",
+    "adress": "王田里沙田路一段2巷與興和路口",
+    "area": "4,721",
+    "hometown": "王田里"
+  },
+  {
+    "number": 426,
+    "region": "大肚區",
+    "ParkName": "福山公園",
+    "adress": "福山里沙田路一段428巷5弄1號對面",
+    "area": 681,
+    "hometown": "福山里"
+  },
+  {
+    "number": 427,
+    "region": "大肚區",
+    "ParkName": "社腳口袋公園",
+    "adress": "社腳里沙田路一段774巷",
+    "area": 215,
+    "hometown": "社腳里"
+  },
+  {
+    "number": 428,
+    "region": "大肚區",
+    "ParkName": "靜態公園",
+    "adress": "頂街里大明四街69號馬路對面",
+    "area": "3,240",
+    "hometown": "頂街里"
+  },
+  {
+    "number": 429,
+    "region": "大肚區",
+    "ParkName": "動態公園",
+    "adress": "大明二街210號對面",
+    "area": "3,456",
+    "hometown": "頂街里"
+  },
+  {
+    "number": 430,
+    "region": "大肚區",
+    "ParkName": "山陽公園",
+    "adress": "沙田路三段824巷49號對面",
+    "area": 216,
+    "hometown": "山陽里"
+  },
+  {
+    "number": 431,
+    "region": "大肚區",
+    "ParkName": "環保公園",
+    "adress": "頂街里華山路388號",
+    "area": "36,912",
+    "hometown": "大東里"
+  },
+  {
+    "number": 432,
+    "region": "龍井區",
+    "ParkName": "拍瀑拉公園",
+    "adress": "龍泉里中社一街、二街",
+    "area": "16,413",
+    "hometown": "龍泉里"
+  },
+  {
+    "number": 433,
+    "region": "龍井區",
+    "ParkName": "麗水河濱公園",
+    "adress": "麗水里龍井堤防1k＋280~1k＋700",
+    "area": "11,633",
+    "hometown": "麗水里"
+  },
+  {
+    "number": 434,
+    "region": "龍井區",
+    "ParkName": "亨德公園",
+    "adress": "南寮里福建宮水池旁",
+    "area": 270,
+    "hometown": "南寮里"
+  },
+  {
+    "number": 435,
+    "region": "清水區",
+    "ParkName": "石瀨頭公園",
+    "adress": "米粉寮溪南側與鐵路交界",
+    "area": "5,000",
+    "hometown": "鰲峰里"
+  },
+  {
+    "number": 436,
+    "region": "清水區",
+    "ParkName": "海風公園",
+    "adress": "舊庄路24號(舊大楊國小)",
+    "area": "9,000",
+    "hometown": "海風里"
+  },
+  {
+    "number": 437,
+    "region": "清水區",
+    "ParkName": "親子公園",
+    "adress": "三民路橋下與鰲峰路交界",
+    "area": "6,500",
+    "hometown": "南社里"
+  },
+  {
+    "number": 438,
+    "region": "清水區",
+    "ParkName": "客庄公園",
+    "adress": "國道4號與國道三號交界處",
+    "area": "18,000",
+    "hometown": "頂湳里"
+  },
+  {
+    "number": 439,
+    "region": "大安區",
+    "ParkName": "頂庄公園",
+    "adress": "中山南路轉入南勢厝路旁",
+    "area": "1,580",
+    "hometown": "中庄里"
+  },
+  {
+    "number": 440,
+    "region": "大安區",
+    "ParkName": "福東段432地號綠美化公園",
+    "adress": "中山南路加油站對面",
+    "area": "1,001",
+    "hometown": "中庄里"
+  },
+  {
+    "number": 441,
+    "region": "大安區",
+    "ParkName": "三塊厝公園",
+    "adress": "中松路轉入埔頭路旁",
+    "area": "1,245",
+    "hometown": "中庄里"
+  },
+  {
+    "number": 442,
+    "region": "大安區",
+    "ParkName": "龜?生態公園",
+    "adress": "溫寮溪出海口南邊",
+    "area": "58,372",
+    "hometown": "龜殼里"
+  },
+  {
+    "number": 443,
+    "region": "太平區",
+    "ParkName": "立德公園",
+    "adress": "新高里立德街、民族街口附近",
+    "area": "2,986",
+    "hometown": "新高里"
+  },
+  {
+    "number": 444,
+    "region": "太平區",
+    "ParkName": "新光兒童公園",
+    "adress": "新高里樹德路、振文路口",
+    "area": "2,473",
+    "hometown": "新高里"
+  },
+  {
+    "number": 445,
+    "region": "太平區",
+    "ParkName": "新坪公園",
+    "adress": "新吉里新平路3段42巷口",
+    "area": "2,522",
+    "hometown": "新吉里"
+  },
+  {
+    "number": 446,
+    "region": "太平區",
+    "ParkName": "麗園公園",
+    "adress": "光華里長安東路",
+    "area": "26,843",
+    "hometown": "光華里"
+  },
+  {
+    "number": 447,
+    "region": "太平區",
+    "ParkName": "萬福公園",
+    "adress": "大興里大興16街",
+    "area": "4,954",
+    "hometown": "大興里"
+  },
+  {
+    "number": 448,
+    "region": "太平區",
+    "ParkName": "宜樂公園",
+    "adress": "宜佳里十甲路十甲橋南側",
+    "area": "1,704",
+    "hometown": "宜佳里"
+  },
+  {
+    "number": 449,
+    "region": "太平區",
+    "ParkName": "宜昌公園",
+    "adress": "宜昌里十甲路宜昌路口",
+    "area": "1,780",
+    "hometown": "宜昌里"
+  },
+  {
+    "number": 450,
+    "region": "太平區",
+    "ParkName": "宜平公園",
+    "adress": "宜昌里十甲路十甲橋北側",
+    "area": 778,
+    "hometown": "宜昌里"
+  },
+  {
+    "number": 451,
+    "region": "太平區",
+    "ParkName": "福平公園",
+    "adress": "建國里建成街、建祥街口",
+    "area": "7,671",
+    "hometown": "建國里"
+  },
+  {
+    "number": 452,
+    "region": "太平區",
+    "ParkName": "正誠公園",
+    "adress": "建興里正誠街、鵬儀路口",
+    "area": "1,548",
+    "hometown": "建興里"
+  },
+  {
+    "number": 453,
+    "region": "太平區",
+    "ParkName": "長億公園",
+    "adress": "永成里永成北路、永泰街口",
+    "area": "2,906",
+    "hometown": "永成里"
+  },
+  {
+    "number": 454,
+    "region": "太平區",
+    "ParkName": "福星公園",
+    "adress": "長億里太平三街、長億十街口",
+    "area": "3,192",
+    "hometown": "長億里"
+  },
+  {
+    "number": 455,
+    "region": "太平區",
+    "ParkName": "永成公園",
+    "adress": "永成里永成路、永華路口",
+    "area": "5,633",
+    "hometown": "永成里"
+  },
+  {
+    "number": 456,
+    "region": "太平區",
+    "ParkName": "921震災紀念公園",
+    "adress": "長億里太平路光興隆橋旁",
+    "area": "35,000",
+    "hometown": "長億里"
+  },
+  {
+    "number": 457,
+    "region": "太平區",
+    "ParkName": "中平公園",
+    "adress": "平安里太平路、太平八街口",
+    "area": "2,975",
+    "hometown": "平安里"
+  },
+  {
+    "number": 458,
+    "region": "太平區",
+    "ParkName": "土地公崁公園",
+    "adress": "東汴里長龍路三段",
+    "area": "2,050",
+    "hometown": "東汴里"
+  },
+  {
+    "number": 459,
+    "region": "太平區",
+    "ParkName": "河堤公園",
+    "adress": "平安里太堤西路",
+    "area": "5,861",
+    "hometown": "平安里"
+  },
+  {
+    "number": 460,
+    "region": "太平區",
+    "ParkName": "蝙蝠洞公園",
+    "adress": "東汴里長龍路四段",
+    "area": "2,698",
+    "hometown": "東汴里"
+  },
+  {
+    "number": 461,
+    "region": "太平區",
+    "ParkName": "中埔四號橋公園",
+    "adress": "東汴里中埔四號橋北側",
+    "area": "2,909",
+    "hometown": "東汴里"
+  },
+  {
+    "number": 462,
+    "region": "太平區",
+    "ParkName": "親水公園",
+    "adress": "大興里部子坑農路",
+    "area": "11,230",
+    "hometown": "大興里"
+  },
+  {
+    "number": 463,
+    "region": "太平區",
+    "ParkName": "宜佳公園",
+    "adress": "宜佳里宜佳街",
+    "area": "2,229",
+    "hometown": "宜佳里"
+  },
+  {
+    "number": 464,
+    "region": "太平區",
+    "ParkName": "永豐公園",
+    "adress": "太平里永豐路",
+    "area": 310,
+    "hometown": "太平里"
+  },
+  {
+    "number": 465,
+    "region": "太平區",
+    "ParkName": "永億公園",
+    "adress": "永成里永成北路",
+    "area": "5,320",
+    "hometown": "永成里"
+  },
+  {
+    "number": 466,
+    "region": "太平區",
+    "ParkName": "頂坪公園",
+    "adress": "興隆里新坪農路",
+    "area": "23,269",
+    "hometown": "興隆里"
+  },
+  {
+    "number": 467,
+    "region": "太平區",
+    "ParkName": "新德隆社區公園",
+    "adress": "德隆里德明路400巷",
+    "area": "1,956",
+    "hometown": "德隆里"
+  },
+  {
+    "number": 468,
+    "region": "太平區",
+    "ParkName": "德興公園",
+    "adress": "新興里新興路與新生50巷口",
+    "area": "6,060",
+    "hometown": "新興里"
+  },
+  {
+    "number": 469,
+    "region": "太平區",
+    "ParkName": "新福公園",
+    "adress": "新福里旱溪東路二段與中山路四段口北側200公尺",
+    "area": "14,529",
+    "hometown": "新福里"
+  },
+  {
+    "number": 470,
+    "region": "太平區",
+    "ParkName": "八德公園",
+    "adress": "宜昌里環太西路與中山路三段(坪林橋南側)",
+    "area": "7,911",
+    "hometown": "宜昌里"
+  },
+  {
+    "number": 471,
+    "region": "太平區",
+    "ParkName": "宜富公園",
+    "adress": "宜欣里祥順路一段與宜昌東路160巷北側",
+    "area": "4,745",
+    "hometown": "宜欣里"
+  },
+  {
+    "number": 472,
+    "region": "太平區",
+    "ParkName": "立文公園",
+    "adress": "新高里樹德十二街與立功路口",
+    "area": "5,218",
+    "hometown": "新高里"
+  },
+  {
+    "number": 473,
+    "region": "太平區",
+    "ParkName": "豐年公園",
+    "adress": "豐年里環太東路與大源18街北側",
+    "area": "14,937",
+    "hometown": "豐年里"
+  },
+  {
+    "number": 474,
+    "region": "太平區",
+    "ParkName": "大源公園",
+    "adress": "豐年里環太東路與大源19街南側",
+    "area": "4,386",
+    "hometown": "豐年里"
+  },
+  {
+    "number": 475,
+    "region": "太平區",
+    "ParkName": "鄉林公園",
+    "adress": "宜昌里十甲路與環中東路四段快速道路口",
+    "area": "4,363",
+    "hometown": "宜昌里"
+  },
+  {
+    "number": 476,
+    "region": "太平區",
+    "ParkName": "宜欣公園",
+    "adress": "宜欣里祥順路一段與宜昌東路160巷南側",
+    "area": "10,658",
+    "hometown": "宜欣里"
+  },
+  {
+    "number": 477,
+    "region": "太平區",
+    "ParkName": "吉祥公園",
+    "adress": "宜昌里環太西路與中山路三段(坪林橋北側)",
+    "area": "4,947",
+    "hometown": "新吉里"
+  },
+  {
+    "number": 478,
+    "region": "太平區",
+    "ParkName": "新安兒童公園",
+    "adress": "新興里新興路35巷對面",
+    "area": "2,745",
+    "hometown": "新興里"
+  },
+  {
+    "number": 479,
+    "region": "太平區",
+    "ParkName": "福德公園",
+    "adress": "中山里環太東路與與中山路二段(坪林橋南側100公尺)",
+    "area": "4,748",
+    "hometown": "中山里"
+  },
+  {
+    "number": 480,
+    "region": "太平區",
+    "ParkName": "永樂公園",
+    "adress": "長億八街與太平三街口",
+    "area": "3,418",
+    "hometown": "長億里"
+  },
+  {
+    "number": 481,
+    "region": "豐原區",
+    "ParkName": "翁社公園",
+    "adress": "萬年路109巷巷底",
+    "area": "4,426",
+    "hometown": "翁社里"
+  },
+  {
+    "number": 482,
+    "region": "豐原區",
+    "ParkName": "丘逢甲公園",
+    "adress": "水源路坪頂巷30號斜對面",
+    "area": "1,900",
+    "hometown": "南嵩里"
+  },
+  {
+    "number": 483,
+    "region": "西屯區",
+    "ParkName": "福安兒童公園",
+    "adress": "安和路-福安路55巷口",
+    "area": "2,535",
+    "hometown": "福安里"
+  },
+  {
+    "number": 484,
+    "region": "西屯區",
+    "ParkName": "惠民公園",
+    "adress": "青海路二段120號旁",
+    "area": "4,600",
+    "hometown": "惠來里"
+  },
+  {
+    "number": 485,
+    "region": "太平區",
+    "ParkName": "建國公園",
+    "adress": "精美路建平國小旁",
+    "area": "5,000",
+    "hometown": "永成里"
+  },
+  {
+    "number": 486,
+    "region": "大甲區",
+    "ParkName": "文武公園",
+    "adress": "和平路/文武路",
+    "area": "2,100",
+    "hometown": "文武里"
+  },
+  {
+    "number": 487,
+    "region": "外埔區",
+    "ParkName": "重光兒童公園",
+    "adress": "甲后路",
+    "area": "1,750",
+    "hometown": "大同里"
+  },
+  {
+    "number": 488,
+    "region": "大安區",
+    "ParkName": "東安休閒公園",
+    "adress": "中山南路79巷福東一路63巷",
+    "area": "2,600",
+    "hometown": "東安里"
+  },
+  {
+    "number": 489,
+    "region": "大雅區",
+    "ParkName": "大榮公園",
+    "adress": "大榮街/大榮街45巷",
+    "area": "2,552",
+    "hometown": "大雅里"
+  },
+  {
+    "number": 490,
+    "region": "大雅區",
+    "ParkName": "文雅兒童公園",
+    "adress": "中山北路/中山北路451巷",
+    "area": "1,900",
+    "hometown": "文雅里"
+  },
+  {
+    "number": 491,
+    "region": "神岡區",
+    "ParkName": "福德兒童公園",
+    "adress": "中正南路80巷",
+    "area": "2,000",
+    "hometown": "神岡里"
+  },
+  {
+    "number": 492,
+    "region": "神岡區",
+    "ParkName": "和睦兒童公園",
+    "adress": "和睦路95巷/61巷間",
+    "area": "2,000",
+    "hometown": "圳堵里"
+  },
+  {
+    "number": 493,
+    "region": "神岡區",
+    "ParkName": "圳前仁愛公園",
+    "adress": "中山路/中山路1720巷",
+    "area": "21,000",
+    "hometown": "圳前里"
+  },
+  {
+    "number": 494,
+    "region": "太平區",
+    "ParkName": "坪林森林公園",
+    "adress": "803醫院對面",
+    "area": "110,000",
+    "hometown": "中山里"
+  },
+  {
+    "number": 495,
+    "region": "大里區",
+    "ParkName": "東湖休閒公園",
+    "adress": "大里區中興路一段",
+    "area": "66,200",
+    "hometown": "東湖里"
+  }
+]
